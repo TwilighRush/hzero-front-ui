@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="217px" viewBox="0 0 494 217" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>poptip/style2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M81.0015322,0 L85.8,6 L160,6 C161.104569,6 162,6.8954305 162,8 L162,88 C162,89.1045695 161.104569,90 160,90 L2,90 C0.8954305,90 1.3527075e-16,89.1045695 0,88 L0,8 C-1.3527075e-16,6.8954305 0.8954305,6 2,6 L76.2,6 L81.0015322,0 Z" id="path-1"></path>
+        <filter x="-6.2%" y="-8.9%" width="112.3%" height="122.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.263781416   0 0 0 0 0.34026736   0 0 0 0 0.682942708  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页4" transform="translate(-767.000000, -2091.000000)">
+            <g id="编组-42" transform="translate(224.000000, 2013.000000)">
+                <g id="poptip/style2" transform="translate(543.000000, 78.000000)">
+                    <g id="编组-20">
+                        <rect id="矩形备份" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="135"></rect>
+                        <text id="左弹出" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="144" y="73">左弹出</tspan>
+                        </text>
+                        <text id="右弹出" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="308" y="73">右弹出</tspan>
+                        </text>
+                        <text id="上弹出" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="226" y="43">上弹出</tspan>
+                        </text>
+                        <text id="下弹出" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="226" y="103">下弹出</tspan>
+                        </text>
+                        <text id="样式二" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                            <tspan x="8" y="27">样式二</tspan>
+                        </text>
+                    </g>
+                    <g id="编组-9备份-2" transform="translate(167.000000, 119.000000)">
+                        <g id="Rectangle-2">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#0D2A53" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="编组-17" transform="translate(68.000000, 58.000000)">
+                            <rect id="矩形" fill="#4F7DE7" x="44" y="0" width="36" height="20" rx="2"></rect>
+                            <text id="确定" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="16" fill="#FFFFFF">
+                                <tspan x="50" y="15">确定</tspan>
+                            </text>
+                            <rect id="矩形" stroke="#D5DAE0" x="0.5" y="0.5" width="35" height="19" rx="2"></rect>
+                            <text id="取消" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="16" fill="#FEFEFE">
+                                <tspan x="6" y="15">取消</tspan>
+                            </text>
+                        </g>
+                        <text id="确定要删除该条数据？" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="16" fill="#FFFFFF">
+                            <tspan x="30" y="31">确定要删除该条数据？</tspan>
+                        </text>
+                        <g id="编组-2" transform="translate(12.000000, 19.000000)">
+                            <circle id="椭圆形" fill="#F8B303" cx="7" cy="7" r="7"></circle>
+                            <circle id="椭圆形" fill="#FFFFFF" cx="7" cy="10" r="1"></circle>
+                            <rect id="矩形" fill="#FFFFFF" x="6" y="3" width="2" height="5" rx="1"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

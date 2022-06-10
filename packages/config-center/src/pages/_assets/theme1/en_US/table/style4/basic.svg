@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="166px" viewBox="0 0 960 166" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>编组 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页4" transform="translate(-276.000000, -1786.000000)">
+            <g id="编组-47" transform="translate(224.000000, 849.000000)">
+                <g id="style4" transform="translate(0.000000, 882.000000)">
+                    <g id="编组-4" transform="translate(52.000000, 55.000000)">
+                        <g id="编组-3" transform="translate(24.000000, 8.000000)" font-size="12">
+                            <text id="Title" font-family="Arial-BoldMT, Arial" font-weight="bold" fill="#4F7DE7">
+                                <tspan x="0" y="11">Title</tspan>
+                            </text>
+                            <text id="采购管理" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="46">Purchase</tspan>
+                            </text>
+                            <text id="销售管理" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="83">Sale</tspan>
+                            </text>
+                            <text id="售后管理" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="120">after-sales</tspan>
+                            </text>
+                            <text id="退货管理" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="157">refund</tspan>
+                            </text>
+                        </g>
+                        <g id="编组-5" transform="translate(185.000000, 8.000000)" font-size="12">
+                            <text id="Describe-text.Descri" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="46">Describe text.Describe text…</tspan>
+                            </text>
+                            <text id="Describe-text.Descri" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="83">Describe text.Describe text…</tspan>
+                            </text>
+                            <text id="Describe-text.Descri" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="120">Describe text.Describe text…</tspan>
+                            </text>
+                            <text id="Describe-text.Descri" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="157">Describe text.Describe text…</tspan>
+                            </text>
+                            <text id="Description" font-family="Arial-BoldMT, Arial" font-weight="bold" fill="#4F7DE7">
+                                <tspan x="0" y="11">Description</tspan>
+                            </text>
+                        </g>
+                        <g id="编组-6" transform="translate(515.000000, 8.000000)" font-size="12">
+                            <text id="管理员" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="46">Administrators</tspan>
+                            </text>
+                            <text id="管理员" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="83">Administrators</tspan>
+                            </text>
+                            <text id="管理员" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="120">Administrators</tspan>
+                            </text>
+                            <text id="管理员" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="157">Administrators</tspan>
+                            </text>
+                            <text id="发布人" font-family="Arial-BoldMT, Arial" font-weight="bold" fill="#4F7DE7">
+                                <tspan x="0" y="11">Issuer</tspan>
+                            </text>
+                        </g>
+                        <g id="编组-6" transform="translate(725.000000, 8.000000)" font-size="12">
+                            <text id="备注文案" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="46">Remark text</tspan>
+                            </text>
+                            <text id="备注文案" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="83">Remark text</tspan>
+                            </text>
+                            <text id="备注文案" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="120">Remark text</tspan>
+                            </text>
+                            <text id="备注文案" font-family="ArialMT, Arial" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="157">Remark text</tspan>
+                            </text>
+                            <text id="备注" font-family="Arial-BoldMT, Arial" font-weight="bold" fill="#4F7DE7">
+                                <tspan x="0" y="11">Remark</tspan>
+                            </text>
+                        </g>
+                        <rect id="Rectangle" fill="#F1F1F1" x="0" y="68" width="932" height="1"></rect>
+                        <rect id="Rectangle" fill="#F1F1F1" x="0" y="105" width="932" height="1"></rect>
+                        <rect id="Rectangle" fill="#F1F1F1" x="0" y="142" width="932" height="1"></rect>
+                        <rect id="Rectangle" fill="#4F7DE7" x="0" y="31" width="932" height="1"></rect>
+                        <rect id="Rectangle" fill-opacity="0.01" fill="#FFFFFF" x="28" y="0" width="932" height="32" rx="2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

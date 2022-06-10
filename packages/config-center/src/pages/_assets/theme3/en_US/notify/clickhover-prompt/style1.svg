@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="106px" viewBox="0 0 494 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>12-Prompt-style3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="一诺合同-配置组件-英文" transform="translate(-224.000000, -5881.000000)">
+            <rect fill="#F6F6F6" x="0" y="0" width="1440" height="9290"></rect>
+            <path d="M210,149 L1430,149 C1431.10457,149 1432,149.895431 1432,151 L1432,8635.15678 L1432,8635.15678 L1432,9272 C1432,9273.10457 1431.10457,9274 1430,9274 L210,9274 C208.895431,9274 208,9273.10457 208,9272 L208,151 C208,149.895431 208.895431,149 210,149 Z" id="Rectangle" fill="#FFFFFF"></path>
+            <g id="clickhover-prompt/style1" transform="translate(224.000000, 5881.000000)">
+                <g id="编组-20">
+                    <rect id="矩形备份" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="494" height="106"></rect>
+                    <text id="Click" font-family="PingFangSC-Regular, PingFang SC" font-size="11" font-weight="normal" fill="#333333">
+                        <tspan x="103.3775" y="83">Click</tspan>
+                    </text>
+                    <path d="M176,20 C178.209139,20 180,21.790861 180,24 L180,52 C180,54.209139 178.209139,56 176,56 L124.952,56 L117.412714,63.5249135 C116.63201,64.3039652 115.36799,64.3039652 114.587286,63.5249135 L107.047,56 L56,56 C53.790861,56 52,54.209139 52,52 L52,24 C52,21.790861 53.790861,20 56,20 L176,20 Z" id="提示框" fill="#3A3A3A"></path>
+                    <path d="M398,20 C400.209139,20 402,21.790861 402,24 L402,52 C402,54.209139 400.209139,56 398,56 L346.952,56 L339.412714,63.5249135 C338.63201,64.3039652 337.36799,64.3039652 336.587286,63.5249135 L329.047,56 L278,56 C275.790861,56 274,54.209139 274,52 L274,24 C274,21.790861 275.790861,20 278,20 L398,20 Z" id="提示框备份" fill="#3A3A3A"></path>
+                    <text id="Prompt-Text" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="81.44" y="43">Prompt Text</tspan>
+                    </text>
+                    <text id="Prompt-Text" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="303.44" y="41">Prompt Text</tspan>
+                    </text>
+                    <text id="Hover" font-family="PingFangSC-Regular, PingFang SC" font-size="11" font-weight="normal" fill="#333333">
+                        <tspan x="323.106" y="83">Hover</tspan>
+                    </text>
+                    <text id="style" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                        <tspan x="8" y="27">style</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

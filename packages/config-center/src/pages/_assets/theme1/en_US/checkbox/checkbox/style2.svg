@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="52px" viewBox="0 0 494 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>checkbox/checkbox/style2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页2" transform="translate(-730.000000, -939.000000)">
+            <g id="编组-52" transform="translate(224.000000, 861.000000)">
+                <g id="checkbox/checkbox/style2" transform="translate(506.000000, 78.000000)">
+                    <g id="编组-56">
+                        <rect id="矩形" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="52"></rect>
+                        <text id="checked" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#6A6A6A">
+                            <tspan x="79" y="30">checked</tspan>
+                        </text>
+                        <text id="unchecked" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#6A6A6A">
+                            <tspan x="150" y="30">unchecked</tspan>
+                        </text>
+                        <rect id="outline" stroke="#DBDFE6" fill-rule="nonzero" x="132.5" y="19.5" width="13" height="13" rx="2"></rect>
+                        <text id="disabled" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#AAADBA">
+                            <tspan x="235" y="30">disabled</tspan>
+                        </text>
+                        <rect id="outline" stroke="#DBDFE6" fill-rule="nonzero" x="217.5" y="19.5" width="13" height="13" rx="2"></rect>
+                        <g id="checked-" transform="translate(61.000000, 19.000000)">
+                            <g id="icon/z/checkboxChecked-Copy" fill-rule="nonzero" stroke="#4F7DE7">
+                                <rect id="box" x="0" y="0" width="14" height="14" rx="2"></rect>
+                            </g>
+                            <g id="check" transform="translate(2.625000, 2.625000)">
+                                <rect id="Rectangle" fill="#618FE8" opacity="0" x="0" y="0" width="8.75" height="8.75"></rect>
+                                <path d="M8.28125,1.23046875 L7.59863281,1.23046875 C7.50292969,1.23046875 7.41210938,1.27441406 7.35351563,1.34960938 L3.32714844,6.45019531 L1.39648438,4.00390625 C1.33691406,3.92871094 1.24707031,3.88476562 1.15136719,3.88476562 L0.46875,3.88476562 C0.403320313,3.88476562 0.3671875,3.95996094 0.407226563,4.01074219 L3.08203125,7.39941406 C3.20703125,7.55761719 3.44726563,7.55761719 3.57324219,7.39941406 L8.34277344,1.35546875 C8.3828125,1.30566406 8.34667969,1.23046875 8.28125,1.23046875 Z" id="Path" stroke="#4F7DE7" stroke-width="0.833333333" fill="#FFFFFF"></path>
+                            </g>
+                        </g>
+                        <g id="style2" transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                            <text>
+                                <tspan x="0.65234375" y="15">style2</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

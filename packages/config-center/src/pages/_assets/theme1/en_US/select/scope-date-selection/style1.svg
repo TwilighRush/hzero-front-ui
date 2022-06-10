@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="68px" viewBox="0 0 494 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>scope-date-selection/style1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页1" transform="translate(-224.000000, -2637.000000)">
+            <g id="编组-46备份" transform="translate(224.000000, 1841.000000)">
+                <g id="scope-date-selection/style1" transform="translate(0.000000, 796.000000)">
+                    <rect id="矩形备份-11" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="68"></rect>
+                    <g id="编组-32" transform="translate(52.000000, 20.000000)">
+                        <rect id="矩形" stroke-opacity="0.15" stroke="#000000" fill="#FFFFFF" x="0.5" y="0.5" width="275" height="27" rx="2"></rect>
+                        <g id="calendar" transform="translate(99.000000, 9.000000)" stroke="#333333">
+                            <rect id="矩形" x="0.5" y="1.5" width="9" height="8" rx="1"></rect>
+                            <rect id="矩形" fill="#D8D8D8" x="3.5" y="0.5" width="1" height="2" rx="0.5"></rect>
+                            <rect id="矩形" fill="#D8D8D8" x="6.5" y="0.5" width="1" height="2" rx="0.5"></rect>
+                            <rect id="矩形" fill="#D8D8D8" x="0.5" y="4.5" width="9" height="1"></rect>
+                            <rect id="矩形" fill="#D8D8D8" x="2.5" y="6.5" width="1" height="1" rx="0.5"></rect>
+                            <rect id="矩形" fill="#D8D8D8" x="6.5" y="7.5" width="1" height="1" rx="0.5"></rect>
+                        </g>
+                        <g id="编组-2" transform="translate(256.000000, 9.000000)" stroke="#333333">
+                            <rect id="矩形" x="0.5" y="1.5" width="9" height="8" rx="1"></rect>
+                            <rect id="矩形" fill="#D8D8D8" x="3.5" y="0.5" width="1" height="2" rx="0.5"></rect>
+                            <rect id="矩形" fill="#D8D8D8" x="6.5" y="0.5" width="1" height="2" rx="0.5"></rect>
+                            <rect id="矩形" fill="#D8D8D8" x="0.5" y="4.5" width="9" height="1"></rect>
+                            <rect id="矩形" fill="#D8D8D8" x="2.5" y="6.5" width="1" height="1" rx="0.5"></rect>
+                            <rect id="矩形" fill="#D8D8D8" x="6.5" y="7.5" width="1" height="1" rx="0.5"></rect>
+                        </g>
+                        <text id="2019-03-11" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#333333">
+                            <tspan x="8" y="18">2019-03-11</tspan>
+                        </text>
+                        <text id="2019-03-15" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#333333">
+                            <tspan x="165" y="18">2019-03-15</tspan>
+                        </text>
+                    </g>
+                    <g id="style1" transform="translate(12.000000, 23.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                        <text>
+                            <tspan x="0.65234375" y="15">style1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

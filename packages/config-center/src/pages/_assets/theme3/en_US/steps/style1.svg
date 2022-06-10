@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="106px" viewBox="0 0 494 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>19-Step--style1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="150" height="32" rx="1"></rect>
+        <filter x="-1.7%" y="-10.9%" width="104.7%" height="121.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M16,0 L136.198292,0 C136.495072,-1.60417291e-14 136.776519,0.13182301 136.966513,0.3598156 L148.933026,14.7196312 C149.551103,15.4613231 149.551103,16.5386769 148.933026,17.2803688 L136.966513,31.6401844 C136.776519,31.868177 136.495072,32 136.198292,32 L16,32 C7.163444,32 1.082166e-15,24.836556 0,16 C-1.082166e-15,7.163444 7.163444,1.623249e-15 16,0 Z" id="path-3"></path>
+        <filter x="-1.7%" y="-10.9%" width="104.3%" height="121.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M16,0 L106.198292,0 C106.495072,-2.98071424e-14 106.776519,0.13182301 106.966513,0.3598156 L118.933026,14.7196312 C119.551103,15.4613231 119.551103,16.5386769 118.933026,17.2803688 L106.966513,31.6401844 C106.776519,31.868177 106.495072,32 106.198292,32 L16,32 C7.163444,32 1.082166e-15,24.836556 0,16 C-1.082166e-15,7.163444 7.163444,1.623249e-15 16,0 Z" id="path-5"></path>
+        <filter x="-2.5%" y="-9.4%" width="104.5%" height="118.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="一诺合同-配置组件-英文" transform="translate(-224.000000, -8968.000000)">
+            <rect fill="#F6F6F6" x="0" y="0" width="1440" height="9444"></rect>
+            <path d="M210,149 L1430,149 C1431.10457,149 1432,149.895431 1432,151 L1432,8780.23518 L1432,8780.23518 L1432,9428 C1432,9429.10457 1431.10457,9430 1430,9430 L210,9430 C208.895431,9430 208,9429.10457 208,9428 L208,151 C208,149.895431 208.895431,149 210,149 Z" id="Rectangle" fill="#FFFFFF"></path>
+            <g id="编组-33" transform="translate(224.000000, 8892.000000)">
+                <g id="编组-34" transform="translate(8.000000, 113.000000)">
+                    <text id="style" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                        <tspan x="0" y="18">style</tspan>
+                    </text>
+                    <g id="编组-50" transform="translate(44.000000, 0.000000)">
+                        <g id="编组-49" transform="translate(210.000000, 0.000000)">
+                            <g id="矩形">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <text id="Step3" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#5A6677">
+                                <tspan x="64" y="19">Step3</tspan>
+                            </text>
+                            <circle id="椭圆形" stroke="#5A6677" cx="50" cy="16" r="5"></circle>
+                        </g>
+                        <g id="编组-48" transform="translate(90.000000, 0.000000)">
+                            <g id="矩形">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                            <text id="Step2" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#5A6677">
+                                <tspan x="64" y="19">Step2</tspan>
+                            </text>
+                            <circle id="椭圆形" stroke="#5A6677" cx="50" cy="16" r="5"></circle>
+                        </g>
+                        <g id="编组-38">
+                            <g id="矩形">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use fill="#258BF1" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            </g>
+                            <text id="Step1" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                                <tspan x="34" y="19">Step1</tspan>
+                            </text>
+                            <circle id="椭圆形" fill="#FFFFFF" cx="20" cy="16" r="5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+{
+  "name": "babel-plugin-hzero-ued-import",
+  "version": "0.2.1",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "prepublish": "yarn transpile",
+    "transpile": "tsc"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/generator": "^7.0.0",
+    "@babel/template": "^7.0.0",
+    "@babel/types": "^7.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://code.choerodon.com.cn/hzero-hzero/hzero-front-ui"
+  },
+  "publishConfig": {
+    "registry": "http://nexus.saas.hand-china.com/content/repositories/hzero-ui/"
+  },
+  "files": [
+    "lib"
+  ]
+}

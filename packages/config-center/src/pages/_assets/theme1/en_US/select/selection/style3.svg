@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="192px" viewBox="0 0 241 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>selection/style3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页1" transform="translate(-730.000000, -1917.000000)">
+            <g id="编组-46备份" transform="translate(224.000000, 1841.000000)">
+                <g id="selection/style3" transform="translate(506.000000, 76.000000)">
+                    <rect id="矩形备份-3" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="241" height="192"></rect>
+                    <text id="Select" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#333333">
+                        <tspan x="52" y="157">Select</tspan>
+                    </text>
+                    <rect id="矩形" fill="#FD6868" x="52" y="166" width="177" height="1"></rect>
+                    <g id="编组-2" transform="translate(213.000000, 148.000000)">
+                        <rect id="矩形" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="10" height="10"></rect>
+                        <path d="M3.07437422,1.34394406 C3.3505166,1.34394406 3.57437422,1.56780169 3.57437422,1.84394406 L3.57437422,5.34394406 L7.07437422,5.34394406 C7.3505166,5.34394406 7.57437422,5.56780169 7.57437422,5.84394406 C7.57437422,6.12008644 7.3505166,6.34394406 7.07437422,6.34394406 L3.07437422,6.34394406 L3.07437422,6.34394406 C2.79823185,6.34394406 2.57437422,6.12008644 2.57437422,5.84394406 L2.57437422,1.84394406 C2.57437422,1.56780169 2.79823185,1.34394406 3.07437422,1.34394406 Z" id="矩形-2" fill="#666666" transform="translate(5.074374, 3.843944) rotate(-45.000000) translate(-5.074374, -3.843944) "></path>
+                    </g>
+                    <text id="Error-waring-text" font-family="ArialMT, Arial" font-size="10" font-weight="normal" line-spacing="18" fill="#FD6868">
+                        <tspan x="52" y="178">Error waring text</tspan>
+                    </text>
+                    <rect id="矩形" fill="#EFF6FF" x="52" y="60" width="177" height="20"></rect>
+                    <text id="Select" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#333333">
+                        <tspan x="52" y="74">Select</tspan>
+                    </text>
+                    <text id="Select备份" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#333333">
+                        <tspan x="52" y="33">Select</tspan>
+                    </text>
+                    <g id="编组-2" transform="translate(213.000000, 65.000000)">
+                        <rect id="矩形" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="10" height="10"></rect>
+                        <path d="M3.07437422,1.34394406 C3.3505166,1.34394406 3.57437422,1.56780169 3.57437422,1.84394406 L3.57437422,5.34394406 L7.07437422,5.34394406 C7.3505166,5.34394406 7.57437422,5.56780169 7.57437422,5.84394406 C7.57437422,6.12008644 7.3505166,6.34394406 7.07437422,6.34394406 L3.07437422,6.34394406 L3.07437422,6.34394406 C2.79823185,6.34394406 2.57437422,6.12008644 2.57437422,5.84394406 L2.57437422,1.84394406 C2.57437422,1.56780169 2.79823185,1.34394406 3.07437422,1.34394406 Z" id="矩形-2" fill="#666666" transform="translate(5.074374, 3.843944) rotate(-45.000000) translate(-5.074374, -3.843944) "></path>
+                    </g>
+                    <g id="编组-2" opacity="0.5" transform="translate(213.000000, 107.000000)">
+                        <rect id="矩形" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="10" height="10"></rect>
+                        <path d="M3.07437422,1.34394406 C3.3505166,1.34394406 3.57437422,1.56780169 3.57437422,1.84394406 L3.57437422,5.34394406 L7.07437422,5.34394406 C7.3505166,5.34394406 7.57437422,5.56780169 7.57437422,5.84394406 C7.57437422,6.12008644 7.3505166,6.34394406 7.07437422,6.34394406 L3.07437422,6.34394406 L3.07437422,6.34394406 C2.79823185,6.34394406 2.57437422,6.12008644 2.57437422,5.84394406 L2.57437422,1.84394406 C2.57437422,1.56780169 2.79823185,1.34394406 3.07437422,1.34394406 Z" id="矩形-2" fill="#666666" transform="translate(5.074374, 3.843944) rotate(-45.000000) translate(-5.074374, -3.843944) "></path>
+                    </g>
+                    <rect id="矩形" fill="#B8D7FF" x="52" y="84" width="177" height="1"></rect>
+                    <text id="Select" opacity="0.5" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#AAADBA">
+                        <tspan x="52" y="115">Select</tspan>
+                    </text>
+                    <rect id="矩形" fill="#E7EAED" x="52" y="125" width="177" height="1"></rect>
+                    <path d="M52,43.5 C52,43.2238576 52.2202696,43 52.5077515,43 L228.492249,43 C228.772672,43 229,43.2319336 229,43.5 L229,43.5 C229,43.7761424 228.77973,44 228.492249,44 L52.5077515,44 C52.2273281,44 52,43.7680664 52,43.5 L52,43.5 Z" id="Rectangle-26-Copy-23备份" fill="#D9D9D9"></path>
+                    <g id="编组-2" transform="translate(213.000000, 25.000000)">
+                        <rect id="矩形" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="10" height="10"></rect>
+                        <path d="M3.07437422,1.34394406 C3.3505166,1.34394406 3.57437422,1.56780169 3.57437422,1.84394406 L3.57437422,5.34394406 L7.07437422,5.34394406 C7.3505166,5.34394406 7.57437422,5.56780169 7.57437422,5.84394406 C7.57437422,6.12008644 7.3505166,6.34394406 7.07437422,6.34394406 L3.07437422,6.34394406 L3.07437422,6.34394406 C2.79823185,6.34394406 2.57437422,6.12008644 2.57437422,5.84394406 L2.57437422,1.84394406 C2.57437422,1.56780169 2.79823185,1.34394406 3.07437422,1.34394406 Z" id="矩形-2" fill="#666666" transform="translate(5.074374, 3.843944) rotate(-45.000000) translate(-5.074374, -3.843944) "></path>
+                    </g>
+                    <g id="style3" transform="translate(12.000000, 17.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                        <text>
+                            <tspan x="0.65234375" y="15">style3</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

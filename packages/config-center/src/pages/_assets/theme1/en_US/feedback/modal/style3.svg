@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="150px" viewBox="0 0 494 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>modal/style3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2,0 L181,0 C182.104569,-2.02906125e-16 183,0.8954305 183,2 L183,102 C183,103.104569 182.104569,104 181,104 L2,104 C0.8954305,104 1.3527075e-16,103.104569 0,102 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="path-1"></path>
+        <filter x="-5.5%" y="-7.7%" width="110.9%" height="119.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.263781416   0 0 0 0 0.34026736   0 0 0 0 0.682942708  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页4" transform="translate(-261.000000, -2464.000000)">
+            <g id="编组-42" transform="translate(224.000000, 2013.000000)">
+                <g id="modal/style3" transform="translate(37.000000, 451.000000)">
+                    <g id="编组-20">
+                        <rect id="矩形备份" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="150"></rect>
+                        <g id="编组-23" transform="translate(69.000000, 61.000000)">
+                            <rect id="矩形" fill="#4F7DE7" x="0" y="0" width="80" height="28" rx="2"></rect>
+                            <text id="Info" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="30" y="18">Info</tspan>
+                            </text>
+                        </g>
+                        <g id="编组-23备份" transform="translate(161.000000, 61.000000)">
+                            <rect id="矩形" fill="#4F7DE7" x="0" y="0" width="80" height="28" rx="2"></rect>
+                            <text id="Warning" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="18" y="18">Warning</tspan>
+                            </text>
+                        </g>
+                        <g id="编组-23备份-2" transform="translate(253.000000, 61.000000)">
+                            <rect id="矩形" fill="#4F7DE7" x="0" y="0" width="80" height="28" rx="2"></rect>
+                            <text id="Success" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="17" y="18">Success</tspan>
+                            </text>
+                        </g>
+                        <g id="编组-23备份-3" transform="translate(345.000000, 61.000000)">
+                            <rect id="矩形" fill="#4F7DE7" x="0" y="0" width="80" height="28" rx="2"></rect>
+                            <text id="Error" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="27" y="18">Error</tspan>
+                            </text>
+                        </g>
+                        <g id="编组-9" transform="translate(156.000000, 23.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Rectangle-2">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <g id="编组-2" opacity="0.149999991" mask="url(#mask-2)">
+                                <g transform="translate(99.000000, -30.000000)">
+                                    <circle id="椭圆形" fill="#F8B303" cx="50" cy="50" r="50"></circle>
+                                    <circle id="椭圆形" fill="#FFFFFF" cx="50" cy="28.5714286" r="7.14285714"></circle>
+                                    <rect id="矩形" fill="#FFFFFF" x="42.8571429" y="42.8571429" width="14.2857143" height="35.7142857" rx="7.14285714"></rect>
+                                </g>
+                            </g>
+                            <circle id="椭圆形" fill="#F8B303" opacity="0.100000001" mask="url(#mask-2)" cx="-6" cy="111" r="43"></circle>
+                            <g id="编组-10" mask="url(#mask-2)">
+                                <g transform="translate(91.000000, 72.000000)">
+                                    <rect id="矩形" stroke="none" fill="#4F7DE7" fill-rule="evenodd" x="44" y="0" width="36" height="20" rx="2"></rect>
+                                    <text id="yes" stroke="none" fill="none" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                                        <tspan x="53" y="14" fill="#FFFFFF">yes</tspan>
+                                    </text>
+                                    <rect id="矩形" stroke="#D5DAE0" stroke-width="1" fill="none" x="0.5" y="0.5" width="35" height="19" rx="2"></rect>
+                                    <text id="no" stroke="none" fill="none" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                                        <tspan x="11" y="14" fill="#666666">no</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <text id="Are-you-sure-delete" mask="url(#mask-2)" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                                <tspan x="12" y="52">Are you sure delete this task?</tspan>
+                            </text>
+                            <text id="Delete-prompt" mask="url(#mask-2)" font-family="Arial-BoldMT, Arial" font-size="12" font-weight="bold" fill="#333333">
+                                <tspan x="30" y="24">Delete prompt</tspan>
+                            </text>
+                            <g id="编组-2" mask="url(#mask-2)">
+                                <g transform="translate(12.000000, 13.000000)">
+                                    <circle id="椭圆形" fill="#F8B303" cx="7" cy="7" r="7"></circle>
+                                    <circle id="椭圆形" fill="#FFFFFF" cx="7" cy="10" r="1"></circle>
+                                    <rect id="矩形" fill="#FFFFFF" x="6" y="3" width="2" height="5" rx="1"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="style3" transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                            <text>
+                                <tspan x="0.65234375" y="15">style3</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

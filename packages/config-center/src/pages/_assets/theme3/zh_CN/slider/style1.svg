@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="62px" viewBox="0 0 494 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>5-Slider</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="一诺合同-配置组件备份-2" transform="translate(-224.000000, -2593.000000)">
+            <rect fill="#F6F6F6" x="0" y="0" width="1440" height="9290"></rect>
+            <path d="M210,149 L1430,149 C1431.10457,149 1432,149.895431 1432,151 L1432,8635.15678 L1432,8635.15678 L1432,9272 C1432,9273.10457 1431.10457,9274 1430,9274 L210,9274 C208.895431,9274 208,9273.10457 208,9272 L208,151 C208,149.895431 208.895431,149 210,149 Z" id="Rectangle" fill="#FFFFFF"></path>
+            <g id="编组-63" transform="translate(224.000000, 2593.000000)">
+                <rect id="矩形备份" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="62"></rect>
+                <g id="编组-9备份-4" transform="translate(264.000000, 17.000000)">
+                    <rect id="矩形" fill="#E2E2E2" x="0" y="7" width="200" height="4" rx="2"></rect>
+                    <rect id="矩形" fill="#B1B1B1" x="0" y="7" width="140" height="4" rx="2"></rect>
+                    <g id="slider-disable-2" transform="translate(131.000000, 0.000000)">
+                        <rect id="矩形" stroke="#C9C9C9" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="16" height="16" rx="8"></rect>
+                        <rect id="矩形" fill="#E5E5E5" x="6" y="6" width="2" height="6" rx="1"></rect>
+                        <rect id="矩形" fill="#E5E5E5" x="10" y="6" width="2" height="6" rx="1"></rect>
+                    </g>
+                    <text id="14" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" fill="#333333">
+                        <tspan x="134" y="33">14</tspan>
+                    </text>
+                </g>
+                <text id="样式" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                    <tspan x="8" y="27">样式</tspan>
+                </text>
+                <g id="编组-9备份" transform="translate(52.000000, 17.000000)">
+                    <rect id="矩形" fill="#E2E2E2" x="0" y="7" width="200" height="4" rx="2"></rect>
+                    <rect id="矩形" fill="#4588F4" x="0" y="7" width="140" height="4" rx="2"></rect>
+                    <g id="slider-2" transform="translate(131.000000, 0.000000)">
+                        <rect id="矩形" stroke="#3B87F5" stroke-width="2" fill="#CBE1FF" x="1" y="1" width="16" height="16" rx="8"></rect>
+                        <rect id="矩形" fill="#A3C0E8" x="6" y="6" width="2" height="6" rx="1"></rect>
+                        <rect id="矩形" fill="#A3C0E8" x="10" y="6" width="2" height="6" rx="1"></rect>
+                    </g>
+                    <text id="14" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" fill="#4F7DE7">
+                        <tspan x="134" y="33">14</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

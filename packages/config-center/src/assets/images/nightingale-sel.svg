@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="281px" height="132px" viewBox="0 0 281 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>colors/nightingale-sel</title>
+    <defs>
+        <radialGradient cx="50%" cy="100%" fx="50%" fy="100%" r="115.651623%" gradientTransform="translate(0.500000,1.000000),scale(0.469751,1.000000),rotate(-90.000000),scale(1.000000,1.728072),translate(-0.500000,-1.000000)" id="radialGradient-1">
+            <stop stop-color="#4671FF" offset="0%"></stop>
+            <stop stop-color="#8FB7FF" offset="37.371442%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="0" y="0" width="281" height="132" rx="2.52727273"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="颜色选择" transform="translate(-33.000000, -432.000000)">
+            <g id="colors/nightingale-sel" transform="translate(33.000000, 432.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="蒙版" fill="url(#radialGradient-1)" xlink:href="#path-2"></use>
+                <g id="编组-4" mask="url(#mask-3)">
+                    <g transform="translate(25.272727, 44.072727)">
+                        <rect id="侧导航备份" fill="#DBDEEC" x="0" y="0" width="227.454545" height="144.239468" rx="2.77383592"></rect>
+                        <rect id="侧导航备份" fill="#FAFAFA" x="40.2206208" y="16.6430155" width="33.286031" height="130.370288" rx="2.77383592"></rect>
+                        <rect id="矩形" fill="#FFFFFF" x="44.3813747" y="26.7383592" width="24.9645233" height="2"></rect>
+                        <rect id="矩形备份-21" fill="#FFFFFF" x="44.3813747" y="50.7028825" width="24.9645233" height="3"></rect>
+                        <rect id="矩形备份-20" fill="#FFFFFF" x="44.3813747" y="38.2206208" width="24.9645233" height="3"></rect>
+                        <rect id="矩形备份-24" fill="#FFFFFF" x="44.3813747" y="75.6674058" width="24.9645233" height="3"></rect>
+                        <rect id="矩形备份-22" fill="#FFFFFF" x="44.3813747" y="63.1851441" width="24.9645233" height="3"></rect>
+                        <rect id="侧导航备份-2" fill="#FAFAFA" x="76.2804878" y="16.6430155" width="148.400222" height="130.370288" rx="2.77383592"></rect>
+                        <rect id="侧导航备份" fill="#FFFFFF" x="0" y="0" width="37.4467849" height="144.239468" rx="2.77383592"></rect>
+                        <path d="M2.77383592,0 L224.68071,0 C226.212657,1.6046296e-14 227.454545,1.24188864 227.454545,2.77383592 L227.454545,11.0953437 L227.454545,11.0953437 L0,11.0953437 L0,2.77383592 C-1.87609433e-16,1.24188864 1.24188864,7.25503359e-16 2.77383592,0 Z" id="侧导航备份" fill="#0840F8"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="134px" viewBox="0 0 494 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>carousel/style1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件补充-英文" transform="translate(-224.000000, -1273.000000)">
+            <g id="carousel/style1" transform="translate(224.000000, 1273.000000)">
+                <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="494" height="134"></rect>
+                <rect id="矩形" fill="#AAADBA" x="52" y="15" width="200" height="78"></rect>
+                <g id="编组-6" transform="translate(126.000000, 84.000000)">
+                    <rect id="矩形" fill="#4F7DE7" x="12" y="0" width="16" height="1" rx="0.5"></rect>
+                    <rect id="矩形备份-2" fill="#FFFFFF" opacity="0.5" x="0" y="0" width="8" height="1" rx="0.5"></rect>
+                    <rect id="矩形备份-4" fill="#FFFFFF" opacity="0.5" x="44" y="0" width="8" height="1" rx="0.5"></rect>
+                    <rect id="矩形备份-3" fill="#FFFFFF" opacity="0.5" x="32" y="0" width="8" height="1" rx="0.5"></rect>
+                </g>
+                <rect id="矩形备份" fill="#AAADBA" x="266" y="15" width="200" height="78"></rect>
+                <g id="编组-6" transform="translate(457.500000, 54.000000) rotate(-90.000000) translate(-457.500000, -54.000000) translate(431.500000, 53.500000)">
+                    <rect id="矩形" fill="#4F7DE7" x="12" y="0" width="16" height="1" rx="0.5"></rect>
+                    <rect id="矩形备份-2" fill="#FFFFFF" opacity="0.5" x="0" y="0" width="8" height="1" rx="0.5"></rect>
+                    <rect id="矩形备份-4" fill="#FFFFFF" opacity="0.5" x="44" y="0" width="8" height="1" rx="0.5"></rect>
+                    <rect id="矩形备份-3" fill="#FFFFFF" opacity="0.5" x="32" y="0" width="8" height="1" rx="0.5"></rect>
+                </g>
+                <g id="style1" transform="translate(8.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0.65234375" y="15">style1</tspan>
+                    </text>
+                </g>
+                <text id="basic" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                    <tspan x="137.553711" y="111">basic</tspan>
+                </text>
+                <text id="vertical" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                    <tspan x="345.251953" y="111">vertical</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

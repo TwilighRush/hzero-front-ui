@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="214px" viewBox="0 0 241 214" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>14-Anchor-style3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="一诺合同-配置组件-英文" transform="translate(-224.000000, -6920.000000)">
+            <rect fill="#F6F6F6" x="0" y="0" width="1440" height="9290"></rect>
+            <path d="M210,149 L1430,149 C1431.10457,149 1432,149.895431 1432,151 L1432,8635.15678 L1432,8635.15678 L1432,9272 C1432,9273.10457 1431.10457,9274 1430,9274 L210,9274 C208.895431,9274 208,9273.10457 208,9272 L208,151 C208,149.895431 208.895431,149 210,149 Z" id="Rectangle" fill="#FFFFFF"></path>
+            <g id="style1备份-4" transform="translate(224.000000, 6920.000000)">
+                <rect id="矩形备份" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="241" height="214"></rect>
+                <g id="编组-10" transform="translate(66.000000, 20.000000)">
+                    <text id="Content-text2" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="16" fill="#AAADBA">
+                        <tspan x="16" y="45">Content text2</tspan>
+                    </text>
+                    <circle id="椭圆形" fill="#AAADBA" cx="4" cy="40" r="4"></circle>
+                    <rect id="矩形" fill="#D9D9D9" x="4" y="50" width="1" height="12"></rect>
+                    <text id="Content-text3" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="16" fill="#AAADBA">
+                        <tspan x="22" y="77">Content text3</tspan>
+                    </text>
+                    <circle id="椭圆形" fill="#AAADBA" cx="4" cy="72" r="3"></circle>
+                    <rect id="矩形" fill="#D9D9D9" x="4" y="82" width="1" height="12"></rect>
+                    <text id="Content-text4" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="16" fill="#AAADBA">
+                        <tspan x="22" y="109">Content text4</tspan>
+                    </text>
+                    <circle id="椭圆形" fill="#AAADBA" cx="4" cy="104" r="3"></circle>
+                    <rect id="矩形" fill="#D9D9D9" x="4" y="114" width="1" height="12"></rect>
+                    <text id="Content-text5" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="16" fill="#AAADBA">
+                        <tspan x="28" y="141">Content text5</tspan>
+                    </text>
+                    <circle id="椭圆形" fill="#AAADBA" cx="4" cy="136" r="2"></circle>
+                    <rect id="矩形" fill="#D9D9D9" x="4" y="146" width="1" height="12"></rect>
+                    <text id="Content-text6" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="16" fill="#AAADBA">
+                        <tspan x="28" y="173">Content text6</tspan>
+                    </text>
+                    <circle id="椭圆形" fill="#AAADBA" cx="4" cy="168" r="2"></circle>
+                    <text id="Content-text1" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="16" fill="#3889FF">
+                        <tspan x="16" y="13">Content text1</tspan>
+                    </text>
+                    <circle id="椭圆形" fill="#3889FF" cx="4" cy="8" r="4"></circle>
+                    <rect id="矩形" fill="#D9D9D9" x="4" y="20" width="1" height="10"></rect>
+                </g>
+                <text id="style" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                    <tspan x="8" y="27">style</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

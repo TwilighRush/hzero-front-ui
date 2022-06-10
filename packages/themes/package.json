@@ -1,0 +1,29 @@
+{
+  "name": "@hzero-front-ui/themes",
+  "version": "4.0.3-alpha.5",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "description": "主题包",
+  "scripts": {
+    "prepublish": "yarn transpile",
+    "tsc": "tsc --emitDeclarationOnly true",
+    "transpile": "cross-env NODE_ENV=production BABEL_ENV=production npx babel src --delete-dir-on-start --out-dir lib --extensions '.ts,.tsx,.js,.jsx' --copy-files --config-file ./.babelrc.js && tsc"
+  },
+  "dependencies": {
+    "@hzero-front-ui/font": "^4.0.3-alpha.2"
+  },
+  "peerDependencies": {
+    "@hzero-front-ui/core": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://code.choerodon.com.cn/hzero-hzero/hzero-front-ui"
+  },
+  "publishConfig": {
+    "registry": "http://nexus.saas.hand-china.com/content/repositories/hzero-ui/"
+  },
+  "files": [
+    "lib"
+  ],
+  "gitHead": "9920ff9b48e736af7f5e8ace1b8afa8b98dbd006"
+}

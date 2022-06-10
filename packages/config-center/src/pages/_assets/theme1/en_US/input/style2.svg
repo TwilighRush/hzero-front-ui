@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="192px" viewBox="0 0 241 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>input-style2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页1" transform="translate(-477.000000, -595.000000)">
+            <g id="编组-36备份" transform="translate(224.000000, 517.000000)">
+                <g id="input-style2" transform="translate(253.000000, 78.000000)">
+                    <rect id="矩形备份" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="241" height="192"></rect>
+                    <rect id="矩形备份-4" stroke="#FD6868" fill="#FFFFFF" x="8.5" y="128.5" width="224" height="27" rx="2"></rect>
+                    <text id="Error-text" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#333333">
+                        <tspan x="16" y="146">Error text</tspan>
+                    </text>
+                    <text id="Error-waring-text" font-family="ArialMT, Arial" font-size="10" font-weight="normal" line-spacing="18" fill="#FD6868">
+                        <tspan x="8" y="167">Error waring text</tspan>
+                    </text>
+                    <rect id="矩形备份-4" stroke-opacity="0.15" stroke="#000000" fill="#FFFFFF" x="8.5" y="32.5" width="224" height="27" rx="2"></rect>
+                    <text id="Enter-something" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#AAADBA">
+                        <tspan x="16" y="50">Enter something</tspan>
+                    </text>
+                    <rect id="矩形备份-4" stroke="#B8D7FF" fill="#EFF6FF" x="8.5" y="64.5" width="224" height="27" rx="2"></rect>
+                    <text id="Enter-something" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#AAADBA">
+                        <tspan x="16" y="82">Enter something</tspan>
+                    </text>
+                    <rect id="矩形备份-4" stroke="#E7EAED" fill="#F8F8F8" x="8.5" y="96.5" width="224" height="27" rx="2"></rect>
+                    <text id="Enter-something" opacity="0.5" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#AAADBA">
+                        <tspan x="16" y="114">Enter something</tspan>
+                    </text>
+                    <g id="style2" transform="translate(8.000000, 6.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                        <text>
+                            <tspan x="0.65234375" y="15">style2</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="106px" viewBox="0 0 494 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>clickhover-prompt/style1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页3" transform="translate(-224.000000, -3570.000000)">
+            <g id="编组-35" transform="translate(224.000000, 2235.000000)">
+                <g id="clickhover-prompt/style1" transform="translate(0.000000, 1335.000000)">
+                    <g id="编组-20">
+                        <rect id="矩形备份" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="494" height="106"></rect>
+                        <text id="Click" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="117" y="87">Click</tspan>
+                        </text>
+                        <path d="M208,15 C210.209139,15 212,16.790861 212,19 L212,54 C212,56.209139 210.209139,58 208,58 L141.846,58 L133.412714,66.4169497 C132.63201,67.1960014 131.36799,67.1960014 130.587286,66.4169497 L122.153,58 L56,58 C53.790861,58 52,56.209139 52,54 L52,19 C52,16.790861 53.790861,15 56,15 L208,15 Z" id="提示框" fill="#0D2A53"></path>
+                        <path d="M430,15 C432.209139,15 434,16.790861 434,19 L434,54 C434,56.209139 432.209139,58 430,58 L363.846,58 L355.412714,66.4169497 C354.63201,67.1960014 353.36799,67.1960014 352.587286,66.4169497 L344.153,58 L278,58 C275.790861,58 274,56.209139 274,54 L274,19 C274,16.790861 275.790861,15 278,15 L430,15 Z" id="提示框备份" fill="#0D2A53"></path>
+                        <text id="Prompt-Text" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="94" y="41">Prompt Text</tspan>
+                        </text>
+                        <text id="Prompt-Text" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="316" y="41">Prompt Text</tspan>
+                        </text>
+                        <text id="Hover" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="335" y="87">Hover</tspan>
+                        </text>
+                        <g id="style1" transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                            <text>
+                                <tspan x="0.65234375" y="15">style1</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

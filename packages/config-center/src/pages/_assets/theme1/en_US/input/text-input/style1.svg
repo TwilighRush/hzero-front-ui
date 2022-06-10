@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="108px" viewBox="0 0 241 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>text-input/style1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页1" transform="translate(-224.000000, -1439.000000)">
+            <g id="编组-36备份" transform="translate(224.000000, 517.000000)">
+                <g id="text-input/style1" transform="translate(0.000000, 922.000000)">
+                    <g id="编组-20">
+                        <rect id="矩形备份" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="241" height="108"></rect>
+                        <rect id="矩形备份-4" stroke-opacity="0.15" stroke="#000000" fill="#FFFFFF" x="52.5" y="12.5" width="176" height="79" rx="2"></rect>
+                        <text id="Enter-something" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#AAADBA">
+                            <tspan x="60" y="30">Enter something</tspan>
+                        </text>
+                        <text id="style1" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                            <tspan x="12" y="25">style1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

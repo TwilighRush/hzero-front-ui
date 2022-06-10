@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="68px" viewBox="0 0 241 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>icon-selection/style3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10备份" transform="translate(-730.000000, -2397.000000)">
+            <g id="编组-46" transform="translate(224.000000, 1949.000000)">
+                <g id="icon-selection/style3" transform="translate(506.000000, 448.000000)">
+                    <rect id="矩形备份-3" fill-opacity="0.01" fill="#F6F6F6" x="0" y="0" width="241" height="68"></rect>
+                    <g id="编组-13" transform="translate(53.000000, 24.000000)">
+                        <rect id="矩形备份-12" fill="#D9D9D9" x="0" y="18" width="177" height="1"></rect>
+                        <g id="图层备份" transform="translate(167.000000, 0.000000)">
+                            <rect id="矩形" fill="#FFFFFF" fill-rule="nonzero" opacity="0.01" x="0" y="0" width="10" height="10"></rect>
+                            <g id="编组-29" transform="translate(0.695300, 0.713124)" stroke="#333333">
+                                <path d="M0.334766477,2.26610592 L4.2802022,0.0560845859 C4.34221047,0.0213508819 4.41799394,0.0221346896 4.47927054,0.0581434952 L8.24032268,2.26830201 C8.33555392,2.32426405 8.3673879,2.44683041 8.31142586,2.54206165 C8.29203939,2.57505184 8.26359596,2.60178824 8.22947053,2.61909844 L4.46867637,4.52677008 C4.4130045,4.55500977 4.34733972,4.55563552 4.2911398,4.52846192 L0.345446091,2.62065309 C0.246003438,2.57257091 0.204367551,2.4529784 0.252449735,2.35353574 C0.270285278,2.31664861 0.299019729,2.28612933 0.334766477,2.26610592 Z" id="路径-3"></path>
+                                <polyline id="路径-4" stroke-linecap="round" stroke-linejoin="round" points="-9.09494702e-13 4.5 4.3838823 6.60977997 8.55568747 4.5"></polyline>
+                                <polyline id="路径-4" stroke-linecap="round" stroke-linejoin="round" points="-9.09494702e-13 6.5 4.3838823 8.60977997 8.55568747 6.5"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                    <text id="样式三" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                        <tspan x="8" y="36">样式三</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

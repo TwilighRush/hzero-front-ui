@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="158px" viewBox="0 0 494 158" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>tab/style4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件补充-中文" transform="translate(-730.000000, -1019.000000)">
+            <g id="tab/style4" transform="translate(730.000000, 1019.000000)">
+                <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="2.27373675e-13" y="0" width="494" height="158"></rect>
+                <g id="编组-58" transform="translate(61.000000, 15.000000)">
+                    <rect id="矩形" fill="#FAFAFA" x="0" y="0" width="120" height="128"></rect>
+                    <rect id="矩形" fill="#EAF0FF" x="0" y="8" width="120" height="32"></rect>
+                    <text id="切换1" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" line-spacing="16" fill="#4F7DE7">
+                        <tspan x="24" y="31">切换1</tspan>
+                    </text>
+                    <text id="切换2" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="16" fill="#333435">
+                        <tspan x="24" y="71">切换2</tspan>
+                    </text>
+                    <text id="切换3" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="16" fill="#333435">
+                        <tspan x="24" y="111">切换3</tspan>
+                    </text>
+                </g>
+                <text id="样式二" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                    <tspan x="9" y="27">样式二</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

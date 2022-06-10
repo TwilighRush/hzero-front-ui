@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="110px" viewBox="0 0 494 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title> 18-Progress-style1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="一诺合同-配置组件-英文" transform="translate(-224.000000, -8587.000000)">
+            <rect fill="#F6F6F6" x="0" y="0" width="1440" height="9290"></rect>
+            <path d="M210,149 L1430,149 C1431.10457,149 1432,149.895431 1432,151 L1432,8635.15678 L1432,8635.15678 L1432,9272 C1432,9273.10457 1431.10457,9274 1430,9274 L210,9274 C208.895431,9274 208,9273.10457 208,9272 L208,151 C208,149.895431 208.895431,149 210,149 Z" id="Rectangle" fill="#FFFFFF"></path>
+            <g id="bar/style1" transform="translate(224.000000, 8587.000000)">
+                <rect id="矩形" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="110"></rect>
+                <rect id="矩形" fill="#F0F0F0" x="52" y="22" width="366" height="8" rx="4"></rect>
+                <rect id="矩形" fill="#3889FF" x="52" y="22" width="129" height="8" rx="4"></rect>
+                <text id="30%" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#AAADBA">
+                    <tspan x="426" y="28">30%</tspan>
+                </text>
+                <rect id="矩形" fill="#F0F0F0" x="52" y="54" width="366" height="8" rx="4"></rect>
+                <g id="progress-interrupt" transform="translate(426.000000, 52.000000)">
+                    <circle id="椭圆形" fill="#FF4141" cx="6" cy="6" r="6"></circle>
+                    <path d="M6,2 C6.27614237,2 6.5,2.22385763 6.5,2.5 L6.5,5.5 L9.5,5.5 C9.77614237,5.5 10,5.72385763 10,6 C10,6.27614237 9.77614237,6.5 9.5,6.5 L6.5,6.5 L6.5,9.5 C6.5,9.77614237 6.27614237,10 6,10 C5.72385763,10 5.5,9.77614237 5.5,9.5 L5.5,6.5 L2.5,6.5 C2.22385763,6.5 2,6.27614237 2,6 C2,5.72385763 2.22385763,5.5 2.5,5.5 L5.5,5.499 L5.5,2.5 C5.5,2.22385763 5.72385763,2 6,2 Z" id="矩形-6" fill="#FFFFFF" transform="translate(6.000000, 6.000000) rotate(-315.000000) translate(-6.000000, -6.000000) "></path>
+                </g>
+                <rect id="矩形" fill="#FF4141" x="52" y="54" width="178" height="8" rx="4"></rect>
+                <rect id="矩形" fill="#44CE6E" x="52" y="86" width="366" height="8" rx="4"></rect>
+                <g id="progress-success" transform="translate(426.000000, 84.000000)">
+                    <circle id="椭圆形" fill="#44CE6E" cx="6" cy="6" r="6"></circle>
+                    <path d="M3.07837879,3.1811099 C3.35452117,3.1811099 3.57837879,3.40496752 3.57837879,3.6811099 L3.57837879,6.1811099 L9.07837879,6.1811099 C9.35452117,6.1811099 9.57837879,6.40496752 9.57837879,6.6811099 C9.57837879,6.95725227 9.35452117,7.1811099 9.07837879,7.1811099 L3.07837879,7.1811099 L3.07837879,7.1811099 C2.80223642,7.1811099 2.57837879,6.95725227 2.57837879,6.6811099 L2.57837879,3.6811099 C2.57837879,3.40496752 2.80223642,3.1811099 3.07837879,3.1811099 Z" id="矩形-7" fill="#FFFFFF" transform="translate(6.078379, 5.181110) rotate(-45.000000) translate(-6.078379, -5.181110) "></path>
+                </g>
+                <text id="style" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                    <tspan x="8" y="27">style</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

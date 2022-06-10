@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="52px" viewBox="0 0 241 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>23-Badge</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="一诺合同-配置组件-英文2" transform="translate(-224.000000, -10353.000000)">
+            <rect fill="#F6F6F6" x="0" y="0" width="1440" height="11085"></rect>
+            <path d="M210,149 L1430,149 C1431.10457,149 1432,149.895431 1432,151 L1432,10311.9284 L1432,10311.9284 L1432,11075 C1432,11076.1046 1431.10457,11077 1430,11077 L210,11077 C208.895431,11077 208,11076.1046 208,11075 L208,151 C208,149.895431 208.895431,149 210,149 Z" id="Rectangle" fill="#FFFFFF"></path>
+            <g id="badge/style1" transform="translate(224.000000, 10353.000000)">
+                <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="241" height="52"></rect>
+                <g id="小按钮-红点-个位数" transform="translate(64.000000, 17.000000)">
+                    <rect id="Rectangle-8" fill="#FF5656" x="0" y="0" width="18" height="18" rx="9"></rect>
+                    <text id="1" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" line-spacing="12" fill="#FFFFFF">
+                        <tspan x="6.5" y="16">1</tspan>
+                    </text>
+                </g>
+                <g id="小图标/小按钮-红点-两位数" transform="translate(94.000000, 17.000000)">
+                    <rect id="Rectangle-8" fill="#FF5656" x="0" y="0" width="26" height="18" rx="9"></rect>
+                    <text id="10" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" line-spacing="12" fill="#FFFFFF">
+                        <tspan x="7" y="16">10</tspan>
+                    </text>
+                </g>
+                <g id="小按钮-红点-三位数" transform="translate(132.000000, 17.000000)">
+                    <rect id="Rectangle-8" fill="#FF5656" x="0" y="0" width="34" height="18" rx="9"></rect>
+                    <text id="99+" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" line-spacing="12" fill="#FFFFFF">
+                        <tspan x="6" y="16">99+</tspan>
+                    </text>
+                </g>
+                <text id="style" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                    <tspan x="7" y="28">style</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

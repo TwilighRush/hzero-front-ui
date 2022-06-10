@@ -1,0 +1,40 @@
+{
+  "name": "@hzero-front-ui/font",
+  "version": "4.0.3-alpha.2",
+  "description": "font file for hzero-front-ui",
+  "main": "lib/index.js",
+  "keywords": [
+    "choerodon",
+    "ui",
+    "icon",
+    "font"
+  ],
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "contributors": [
+    "hzero-front-ui团队"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "yarn transpile",
+    "transpile": "cross-env NODE_ENV=production BABEL_ENV=production npx babel src --delete-dir-on-start --out-dir lib --copy-files --ignore 'src/**/*.spec.js','src/**/*.test.js'"
+  },
+  "dependencies": {
+    "hzero-ued-icon": "^0.1.13"
+  },
+  "peerDependencies": {
+    "@hzero-front-ui/core": "*",
+    "choerodon-ui": "*",
+    "styled-components": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://code.choerodon.com.cn/hzero-hzero/hzero-front-ui"
+  },
+  "publishConfig": {
+    "registry": "http://nexus.saas.hand-china.com/content/repositories/hzero-ui/"
+  },
+  "gitHead": "0681c3d542dfab0bd1788d108f82f6c025678a0f"
+}

@@ -1,0 +1,91 @@
+{
+  "name": "hzero-front-ui",
+  "private": true,
+  "version": "0.1.0-beta.1",
+  "devDependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/preset-typescript": "7.15.0",
+    "@types/lodash": "^4.14.0",
+    "@types/styled-components": "^5.1.14",
+    "@umijs/preset-react": "^1.8.24",
+    "babel-plugin-import": "^1.12.2",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "babel-plugin-named-asset-import": "^0.3.7",
+    "babel-plugin-styled-components": "^1.10.6",
+    "cross-env": "^6.0.3",
+    "eslint": "7.32.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.4.0",
+    "eslint-plugin-react": "^7.26.0",
+    "husky": "^3.0.9",
+    "lerna": "^3.13.1",
+    "less": "<3.0.0",
+    "lint-staged": "^9.4.2",
+    "mockjs": "^1.1.0",
+    "prettier": "^2.2.1",
+    "tslib": "^2.0.1",
+    "umi": "^3.4.0",
+    "xlsx": "^0.17.0"
+  },
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build",
+    "watch": "cd packages/core && tsc -w --emitDeclarationOnly false",
+    "init:project": "lerna bootstrap --registry=http://nexus.saas.hand-china.com/content/groups/hzero-npm-group/",
+    "transpile:font": "cd packages/font && yarn transpile",
+    "transpile:c7n": "cd packages/c7n && yarn transpile",
+    "transpile:hzero": "cd packages/hzero && yarn transpile",
+    "transpile:cfg": "cd packages/config-center && yarn transpile",
+    "transpile": "lerna run transpile",
+    "start:c7n": "cd packages/c7n && yarn start",
+    "start:hzero": "cd packages/hzero && yarn start",
+    "start:cfg": "cd packages/config-center && yarn start",
+    "postinstall": "echo node packages/config-center/scripts/postinstall.js"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "axios": "^0.19.2",
+    "choerodon-ui": "1.5.4-alpha.22",
+    "hammerjs": "^2.0.8",
+    "hzero-ui": "^1.0.83",
+    "react": "^16.10.2",
+    "react-beautiful-dnd": "^13.0.0",
+    "react-color": "^2.17.3",
+    "react-dom": "^16.10.2",
+    "react-intl-universal": "^2.2.2",
+    "react-loadable": "^5.5.0",
+    "react-router-dom": "^5.1.2",
+    "reqwest": "^2.0.5"
+  },
+  "resolutions": {
+    "umi": "3.5.22",
+    "@types/react": "^16.0.0",
+    "@types/react-dom": "^16.0.0",
+    "react": "^17.0.2",
+    "babel-preset-react-app":"~9.1.0",
+    "@babel/preset-env": "~7.9.0",
+    "react-dom": "^17.0.2",
+    "tslib": "^2.0.0",
+    "choerodon-ui": "1.5.4-alpha.22",
+    "hzero-ued-icon": "^0.1.13"
+  },
+  "lint-staged": {
+    "packages/*/src/**/*.{js,jsx,ts,tsx}": [
+      "prettier --write",
+      "eslint --quiet --fix ",
+      "git add"
+    ],
+    "packages/*/src/**/*.less": [
+      "prettier --write",
+      "stylelint --syntax less",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  }
+}

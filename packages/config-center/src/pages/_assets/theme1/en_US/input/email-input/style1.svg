@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="68px" viewBox="0 0 241 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>email-input/style1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页1" transform="translate(-224.000000, -843.000000)">
+            <g id="编组-36备份" transform="translate(224.000000, 517.000000)">
+                <g id="email-input/style1" transform="translate(0.000000, 326.000000)">
+                    <rect id="矩形备份" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="241" height="68"></rect>
+                    <rect id="矩形备份-4" stroke-opacity="0.15" stroke="#000000" fill="#FFFFFF" x="52.5" y="20.5" width="176" height="27" rx="2"></rect>
+                    <text id="wangjie@123.com" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#333333">
+                        <tspan x="60" y="38">wangjie@123.com</tspan>
+                    </text>
+                    <g id="style1" transform="translate(12.000000, 22.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                        <text>
+                            <tspan x="0.65234375" y="15">style1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

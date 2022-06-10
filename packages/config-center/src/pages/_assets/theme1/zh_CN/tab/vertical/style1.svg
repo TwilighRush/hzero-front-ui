@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="158px" viewBox="0 0 494 158" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>tab/style3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件补充-中文" transform="translate(-224.000000, -1019.000000)">
+            <g id="tab/style3" transform="translate(224.000000, 1019.000000)">
+                <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="494" height="158"></rect>
+                <g id="编组-2" transform="translate(60.000000, 15.000000)" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="22">
+                    <text id="切换1" fill="#5A6677">
+                        <tspan x="0" y="15">切换1</tspan>
+                    </text>
+                    <text id="切换3" fill="#5A6677">
+                        <tspan x="0" y="107">切换3</tspan>
+                    </text>
+                    <text id="切换2" fill="#4F7DE7">
+                        <tspan x="0" y="61">切换2</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle备份" fill="#EEEEEE" transform="translate(112.000000, 72.000000) rotate(-90.000000) translate(-112.000000, -72.000000) " x="55" y="71" width="114" height="2" rx="1"></rect>
+                <rect id="Rectangle" fill="#4F7DE7" transform="translate(112.000000, 72.000000) rotate(-90.000000) translate(-112.000000, -72.000000) " x="101" y="71" width="22" height="2" rx="1"></rect>
+                <text id="样式一" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                    <tspan x="8" y="27">样式一</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

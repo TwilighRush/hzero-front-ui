@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="68px" viewBox="0 0 241 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>number-input/style2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页1" transform="translate(-477.000000, -1191.000000)">
+            <g id="编组-36备份" transform="translate(224.000000, 517.000000)">
+                <g id="number-input/style2" transform="translate(253.000000, 674.000000)">
+                    <rect id="矩形" fill-opacity="0.01" fill="#F6F6F6" x="0" y="0" width="241" height="68"></rect>
+                    <g id="编组-7" transform="translate(8.000000, 32.000000)">
+                        <rect id="矩形备份-3" stroke="#D9D9D9" fill="#FFFFFF" x="0.5" y="0.5" width="224" height="27" rx="2"></rect>
+                        <g id="编组-2" transform="translate(207.000000, 14.000000)">
+                            <rect id="矩形" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="10" height="10"></rect>
+                            <path d="M3.07437422,1.34394406 C3.3505166,1.34394406 3.57437422,1.56780169 3.57437422,1.84394406 L3.57437422,5.34394406 L7.07437422,5.34394406 C7.3505166,5.34394406 7.57437422,5.56780169 7.57437422,5.84394406 C7.57437422,6.12008644 7.3505166,6.34394406 7.07437422,6.34394406 L3.07437422,6.34394406 L3.07437422,6.34394406 C2.79823185,6.34394406 2.57437422,6.12008644 2.57437422,5.84394406 L2.57437422,1.84394406 C2.57437422,1.56780169 2.79823185,1.34394406 3.07437422,1.34394406 Z" id="矩形-2" fill="#5A6677" transform="translate(5.074374, 3.843944) rotate(-45.000000) translate(-5.074374, -3.843944) "></path>
+                        </g>
+                        <g id="编组-2备份-3" transform="translate(212.000000, 9.000000) scale(1, -1) translate(-212.000000, -9.000000) translate(207.000000, 4.000000)">
+                            <rect id="矩形" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="10" height="10"></rect>
+                            <path d="M3.07437422,1.34394406 C3.3505166,1.34394406 3.57437422,1.56780169 3.57437422,1.84394406 L3.57437422,5.34394406 L7.07437422,5.34394406 C7.3505166,5.34394406 7.57437422,5.56780169 7.57437422,5.84394406 C7.57437422,6.12008644 7.3505166,6.34394406 7.07437422,6.34394406 L3.07437422,6.34394406 L3.07437422,6.34394406 C2.79823185,6.34394406 2.57437422,6.12008644 2.57437422,5.84394406 L2.57437422,1.84394406 C2.57437422,1.56780169 2.79823185,1.34394406 3.07437422,1.34394406 Z" id="矩形-2" fill="#5A6677" transform="translate(5.074374, 3.843944) rotate(-45.000000) translate(-5.074374, -3.843944) "></path>
+                        </g>
+                        <text id="$12,000.00备份" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#333333">
+                            <tspan x="136" y="18">$12,000.00</tspan>
+                        </text>
+                    </g>
+                    <g id="style1" transform="translate(8.000000, 6.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                        <text>
+                            <tspan x="0.65234375" y="15">style2</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

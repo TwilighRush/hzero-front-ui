@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="52px" viewBox="0 0 494 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>radio/style2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页2" transform="translate(-730.000000, -645.000000)">
+            <g id="编组-30" transform="translate(224.000000, 567.000000)">
+                <g id="radio/style2" transform="translate(506.000000, 78.000000)">
+                    <g id="编组-20">
+                        <rect id="矩形备份" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="52"></rect>
+                        <circle id="unselected" stroke="#D5DAE0" fill="#FFFFFF" cx="60" cy="26" r="7.5"></circle>
+                        <g id="selected-2" transform="translate(142.000000, 18.000000)" stroke="#4F7DE7">
+                            <circle id="椭圆形备份" fill="#FFFFFF" cx="8" cy="8" r="7.5"></circle>
+                            <polyline id="路径-2" stroke-linecap="round" stroke-linejoin="round" points="4.04642614 8.14465202 6.73824688 10.8602366 12.0768996 5.42906744"></polyline>
+                        </g>
+                        <text id="option1" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                            <tspan x="72" y="30">option1</tspan>
+                        </text>
+                        <circle id="椭圆形" stroke="#E7EAED" fill="#F8F8F8" cx="240" cy="26" r="7.5"></circle>
+                        <text id="option3" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#AAADBA">
+                            <tspan x="252" y="30">option3</tspan>
+                        </text>
+                        <text id="option2" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                            <tspan x="162" y="30">option2</tspan>
+                        </text>
+                        <g id="style1" transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                            <text>
+                                <tspan x="0.65234375" y="15">style2</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

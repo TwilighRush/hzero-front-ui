@@ -1,0 +1,155 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2755784 */
+  src: url('iconfont.woff2?t=1629357840443') format('woff2'),
+       url('iconfont.woff?t=1629357840443') format('woff'),
+       url('iconfont.ttf?t=1629357840443') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.caret-right:before {
+  content: "\e709";
+}
+
+.check-circle-fill:before {
+  content: "\e70a";
+}
+
+.caret-up:before {
+  content: "\e70b";
+}
+
+.caret-left:before {
+  content: "\e70c";
+}
+
+.caret-down:before {
+  content: "\e70d";
+}
+
+.calendar:before {
+  content: "\e70e";
+}
+
+.close:before {
+  content: "\e70f";
+}
+
+.container:before {
+  content: "\e710";
+}
+
+.cloud-upload:before {
+  content: "\e711";
+}
+
+.check:before {
+  content: "\e712";
+}
+
+.close-circle-fill:before {
+  content: "\e713";
+}
+
+.close-circle:before {
+  content: "\e714";
+}
+
+.check-circle:before {
+  content: "\e715";
+}
+
+.edit:before {
+  content: "\e716";
+}
+
+.down:before {
+  content: "\e717";
+}
+
+.doubleright:before {
+  content: "\e718";
+}
+
+.docx:before {
+  content: "\e719";
+}
+
+.delete:before {
+  content: "\e71a";
+}
+
+.doubleleft:before {
+  content: "\e71b";
+}
+
+.left:before {
+  content: "\e71c";
+}
+
+.loading:before {
+  content: "\e71d";
+}
+
+.eye:before {
+  content: "\e71e";
+}
+
+.filter:before {
+  content: "\e71f";
+}
+
+.eye-close:before {
+  content: "\e720";
+}
+
+.info-circle:before {
+  content: "\e721";
+}
+
+.filesearch:before {
+  content: "\e722";
+}
+
+.warning-circle-fill:before {
+  content: "\e723";
+}
+
+.up:before {
+  content: "\e724";
+}
+
+.right:before {
+  content: "\e725";
+}
+
+.plus:before {
+  content: "\e726";
+}
+
+.merge-cells:before {
+  content: "\e727";
+}
+
+.search:before {
+  content: "\e728";
+}
+
+.pdf:before {
+  content: "\e729";
+}
+
+.more:before {
+  content: "\e72a";
+}
+
+.xlsx:before {
+  content: "\e72b";
+}
+

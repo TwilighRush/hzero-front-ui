@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="174px" viewBox="0 0 494 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>11-List-style2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="一诺合同-配置组件-英文" transform="translate(-224.000000, -4527.000000)">
+            <rect fill="#F6F6F6" x="0" y="0" width="1440" height="9290"></rect>
+            <path d="M210,149 L1430,149 C1431.10457,149 1432,149.895431 1432,151 L1432,8635.15678 L1432,8635.15678 L1432,9272 C1432,9273.10457 1431.10457,9274 1430,9274 L210,9274 C208.895431,9274 208,9273.10457 208,9272 L208,151 C208,149.895431 208.895431,149 210,149 Z" id="Rectangle" fill="#FFFFFF"></path>
+            <g id="list-single+operate/style1" transform="translate(224.000000, 4527.000000)">
+                <g id="编组-20">
+                    <rect id="矩形备份" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="174"></rect>
+                    <rect id="矩形" fill="#F8FBFF" transform="translate(257.000000, 124.000000) scale(1, -1) translate(-257.000000, -124.000000) " x="52" y="97" width="410" height="54"></rect>
+                    <g id="编组-15" transform="translate(383.000000, 111.000000)">
+                        <g id="Group备份-8">
+                            <rect id="Rectangle" stroke="#D5DAE0" fill="#FFFFFF" x="0.5" y="0.5" width="70" height="25" rx="12.5"></rect>
+                            <text id="Actions" font-family="PingFangSC-Regular, PingFang SC" font-size="11" font-weight="normal" fill="#576679">
+                                <tspan x="16.885" y="17">Actions</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <rect id="矩形备份-3" fill="#FFFFFF" transform="translate(257.000000, 72.000000) scale(1, -1) translate(-257.000000, -72.000000) " x="52" y="47" width="410" height="50"></rect>
+                    <g id="编组-2" transform="translate(64.000000, 21.000000)">
+                        <text id="Header" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="0" y="15">Header</tspan>
+                        </text>
+                        <text id="This-is-a-piece-of-t" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="16" fill="#5A6677">
+                            <tspan x="38" y="56">This is a piece of text.</tspan>
+                        </text>
+                        <g id="编组-15" transform="translate(319.000000, 38.000000)">
+                            <g id="Group备份-8">
+                                <rect id="Rectangle" stroke="#D5DAE0" fill="#FFFFFF" x="0.5" y="0.5" width="70" height="25" rx="12.5"></rect>
+                                <text id="Actions" font-family="PingFangSC-Regular, PingFang SC" font-size="11" font-weight="normal" fill="#576679">
+                                    <tspan x="16" y="17">Actions</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <circle id="椭圆形" fill="#D8D8D8" cx="15" cy="51" r="15"></circle>
+                        <circle id="椭圆形" fill="#D8D8D8" cx="15" cy="103" r="15"></circle>
+                        <text id="This-is-a-piece-of-t" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="16" fill="#5A6677">
+                            <tspan x="38" y="108">This is a piece of text.</tspan>
+                        </text>
+                    </g>
+                    <text id="style" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                        <tspan x="8" y="27">style</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="110px" viewBox="0 0 494 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>bar/style2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10备份" transform="translate(-730.000000, -11712.000000)">
+            <g id="编组-43" transform="translate(224.000000, 11634.000000)">
+                <g id="bar/style2" transform="translate(506.000000, 78.000000)">
+                    <rect id="矩形" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="110"></rect>
+                    <rect id="矩形" fill="#F0F0F0" x="52" y="24" width="366" height="4" rx="2"></rect>
+                    <rect id="矩形" fill="#4F7DE7" x="52" y="24" width="129" height="4" rx="2"></rect>
+                    <g id="编组-24" transform="translate(169.000000, 14.000000)">
+                        <circle id="椭圆形" stroke="#4F7DE7" opacity="0.300000012" cx="12" cy="12" r="12"></circle>
+                        <circle id="椭圆形" fill="#4F7DE7" cx="12" cy="12" r="6"></circle>
+                        <circle id="椭圆形" fill="#FFFFFF" cx="12" cy="12" r="2"></circle>
+                    </g>
+                    <rect id="矩形" fill="#F0F0F0" x="52" y="56" width="366" height="4" rx="2"></rect>
+                    <rect id="矩形" fill="#FF4141" x="52" y="56" width="159" height="4" rx="2"></rect>
+                    <g id="编组-24" transform="translate(199.000000, 46.000000)">
+                        <circle id="椭圆形" stroke="#FF4141" opacity="0.300000012" cx="12" cy="12" r="12"></circle>
+                        <circle id="椭圆形" fill="#FF4141" cx="12" cy="12" r="6"></circle>
+                        <path d="M12,8 C12.2761424,8 12.5,8.22385763 12.5,8.5 L12.5,11.5 L15.5,11.5 C15.7761424,11.5 16,11.7238576 16,12 C16,12.2761424 15.7761424,12.5 15.5,12.5 L12.5,12.5 L12.5,15.5 C12.5,15.7761424 12.2761424,16 12,16 C11.7238576,16 11.5,15.7761424 11.5,15.5 L11.5,12.5 L8.5,12.5 C8.22385763,12.5 8,12.2761424 8,12 C8,11.7238576 8.22385763,11.5 8.5,11.5 L11.5,11.499 L11.5,8.5 C11.5,8.22385763 11.7238576,8 12,8 Z" id="矩形-6" fill="#FFFFFF" transform="translate(12.000000, 12.000000) rotate(-315.000000) translate(-12.000000, -12.000000) "></path>
+                    </g>
+                    <text id="30%" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#AAADBA">
+                        <tspan x="426" y="28">30%</tspan>
+                    </text>
+                    <text id="40%" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#FF4141">
+                        <tspan x="426" y="61">40%</tspan>
+                    </text>
+                    <rect id="矩形" fill="#44CE6E" x="52" y="88" width="366" height="4" rx="2"></rect>
+                    <g id="编组-24" transform="translate(403.000000, 78.000000)">
+                        <circle id="椭圆形" stroke="#44CE6E" opacity="0.300000012" cx="12" cy="12" r="12"></circle>
+                        <g id="编组-22" transform="translate(6.000000, 6.000000)">
+                            <circle id="椭圆形" fill="#44CE6E" cx="6" cy="6" r="6"></circle>
+                            <path d="M3.07837879,3.1811099 C3.35452117,3.1811099 3.57837879,3.40496752 3.57837879,3.6811099 L3.57837879,6.1811099 L9.07837879,6.1811099 C9.35452117,6.1811099 9.57837879,6.40496752 9.57837879,6.6811099 C9.57837879,6.95725227 9.35452117,7.1811099 9.07837879,7.1811099 L3.07837879,7.1811099 L3.07837879,7.1811099 C2.80223642,7.1811099 2.57837879,6.95725227 2.57837879,6.6811099 L2.57837879,3.6811099 C2.57837879,3.40496752 2.80223642,3.1811099 3.07837879,3.1811099 Z" id="矩形-7" fill="#FFFFFF" transform="translate(6.078379, 5.181110) rotate(-45.000000) translate(-6.078379, -5.181110) "></path>
+                        </g>
+                    </g>
+                    <text id="样式二" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                        <tspan x="8" y="27">样式二</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

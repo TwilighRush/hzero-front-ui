@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="61px" viewBox="0 0 494 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>tab/style2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页4" transform="translate(-730.000000, -732.000000)">
+            <g id="编组-41" transform="translate(224.000000, 461.000000)">
+                <g id="tab/style2" transform="translate(506.000000, 271.000000)">
+                    <rect id="矩形" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="61"></rect>
+                    <rect id="矩形" stroke-opacity="0.15" stroke="#000000" x="56.5" y="15.5" width="145" height="27" rx="2"></rect>
+                    <text id="Tab1" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#4F7DE7">
+                        <tspan x="67" y="33">Tab1</tspan>
+                    </text>
+                    <rect id="矩形" fill-opacity="0.15" fill="#000000" x="104" y="16" width="1" height="26"></rect>
+                    <text id="Tab2" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                        <tspan x="115" y="33">Tab2</tspan>
+                    </text>
+                    <text id="Tab3" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                        <tspan x="164" y="33">Tab3</tspan>
+                    </text>
+                    <rect id="矩形" fill-opacity="0.15" fill="#000000" x="153" y="16" width="1" height="26"></rect>
+                    <path d="M104.5,42.5 L104.5,15.5 L58,15.5 C57.1715729,15.5 56.5,16.1715729 56.5,17 L56.5,41 C56.5,41.8284271 57.1715729,42.5 58,42.5 L104.5,42.5 Z" id="矩形" stroke="#4F7DE7"></path>
+                    <g id="style2" transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                        <text>
+                            <tspan x="0.65234375" y="15">style2</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

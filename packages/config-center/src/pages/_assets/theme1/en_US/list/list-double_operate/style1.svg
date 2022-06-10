@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="218px" viewBox="0 0 494 218" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>list-double+operate/style1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页3" transform="translate(-224.000000, -1735.000000)">
+            <g id="编组-16" transform="translate(224.000000, 173.000000)">
+                <g id="list-double+operate/style1" transform="translate(0.000000, 1562.000000)">
+                    <g id="编组-20">
+                        <rect id="矩形备份" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="218"></rect>
+                        <g id="编组-2" transform="translate(52.000000, 22.000000)">
+                            <text id="Header" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#333333">
+                                <tspan x="12" y="13">Header</tspan>
+                            </text>
+                            <text id="This-is-title" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                                <tspan x="12" y="49">This is title</tspan>
+                            </text>
+                            <text id="This-is-description," font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#9B9B9B">
+                                <tspan x="12" y="73">This is description, this is description.</tspan>
+                            </text>
+                            <rect id="Rectangle" fill="#F1F1F1" x="0" y="87" width="410" height="1"></rect>
+                            <text id="This-is-title" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                                <tspan x="12" y="110">This is title</tspan>
+                            </text>
+                            <text id="This-is-description," font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#9B9B9B">
+                                <tspan x="12" y="134">This is description, this is description.</tspan>
+                            </text>
+                            <rect id="Rectangle" fill="#F1F1F1" x="0" y="148" width="410" height="1"></rect>
+                            <rect id="Rectangle" fill="#F1F1F1" x="0" y="26" width="410" height="1"></rect>
+                            <g id="编组-15" transform="translate(354.000000, 43.000000)">
+                                <rect id="矩形" stroke="#D5DAE0" fill="#FFFFFF" x="0.5" y="0.5" width="55" height="27" rx="1.5"></rect>
+                                <text id="Actions" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#333333">
+                                    <tspan x="8" y="18">Actions</tspan>
+                                </text>
+                            </g>
+                            <g id="编组-14" transform="translate(354.000000, 104.000000)">
+                                <rect id="矩形" stroke="#D5DAE0" fill="#FFFFFF" x="0.5" y="0.5" width="55" height="27" rx="1.5"></rect>
+                                <text id="Actions" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#333333">
+                                    <tspan x="8" y="18">Actions</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="style1" transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                            <text>
+                                <tspan x="0.65234375" y="15">style1</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

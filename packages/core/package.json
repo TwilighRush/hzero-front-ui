@@ -1,0 +1,32 @@
+{
+  "name": "@hzero-front-ui/core",
+  "version": "4.0.2-alpha.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "yarn transpile",
+    "dev": "tsc -w --emitDeclarationOnly false",
+    "transpile": "cross-env NODE_ENV=production BABEL_ENV=production npx babel src --delete-dir-on-start --out-dir lib --extensions '.ts,.tsx,.js,.jsx' --copy-files && tsc"
+  },
+  "dependencies": {
+    "styled-components": "^5.2.0",
+    "tinycolor2": "^1.4.2",
+    "vars-singleton": "^0.2.0"
+  },
+  "peerDependencies": {
+    "react": "^17.x"
+  },
+  "devDependencies": {
+    "@types/tinycolor2": "^1.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://code.choerodon.com.cn/hzero-hzero/hzero-front-ui"
+  },
+  "publishConfig": {
+    "registry": "http://nexus.saas.hand-china.com/content/repositories/hzero-ui/"
+  },
+  "files": [
+    "lib"
+  ]
+}

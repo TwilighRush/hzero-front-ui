@@ -1,0 +1,46 @@
+{
+  "name": "@hzero-front-ui/hzero-ui",
+  "private": false,
+  "description": "hzero-front-ui for hzero-ui",
+  "version": "4.0.3-alpha.2",
+  "author": "前端基础团队",
+  "main": "lib/themes/index.js",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/plugin-proposal-decorators": "^7.6.0",
+    "babel-plugin-styled-components": "^1.10.6",
+    "babel-preset-react-app": "^9.0.2",
+    "prettier": "^1.18.2",
+    "prop-types": "^15.7.2",
+    "react-helmet": "^5.2.1"
+  },
+  "peerDependencies": {
+    "@hzero-front-ui/core": "*",
+    "choerodon-ui": "*",
+    "hzero-ui": "*"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "umi build",
+    "dev": "umi dev",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run dev",
+    "prepublish": "yarn transpile",
+    "transpile": "cross-env UED_BUILD_TARGET=cfg NODE_ENV=production BABEL_ENV=production npx babel src/components --delete-dir-on-start --out-dir lib --copy-files --ignore 'src/**/*.spec.js','src/**/*.test.js' && node pre-publish.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://code.choerodon.com.cn/hzero-hzero/hzero-front-ui"
+  },
+  "publishConfig": {
+    "registry": "http://nexus.saas.hand-china.com/content/repositories/hzero-ui/"
+  },
+  "files": [
+    "lib",
+    "assets",
+    "index.js",
+    "package.json",
+    "README.md"
+  ],
+  "gitHead": "0681c3d542dfab0bd1788d108f82f6c025678a0f"
+}

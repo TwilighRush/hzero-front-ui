@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="134px" viewBox="0 0 494 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>22-Carousel</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="一诺合同-配置组件-英文2" transform="translate(-224.000000, -10133.000000)">
+            <rect fill="#F6F6F6" x="0" y="0" width="1440" height="11085"></rect>
+            <path d="M210,149 L1430,149 C1431.10457,149 1432,149.895431 1432,151 L1432,10311.9284 L1432,10311.9284 L1432,11075 C1432,11076.1046 1431.10457,11077 1430,11077 L210,11077 C208.895431,11077 208,11076.1046 208,11075 L208,151 C208,149.895431 208.895431,149 210,149 Z" id="Rectangle" fill="#FFFFFF"></path>
+            <g id="编组-2备份-2" transform="translate(224.000000, 10133.000000)">
+                <rect id="矩形" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="134"></rect>
+                <rect id="矩形" fill="#AAADBA" x="52" y="14" width="200" height="78" rx="2"></rect>
+                <rect id="矩形2" fill-opacity="0.5" fill="#FFFFFF" x="225" y="83" width="10" height="4" rx="2"></rect>
+                <rect id="矩形备份" fill-opacity="0.5" fill="#FFFFFF" x="237" y="83" width="10" height="4" rx="2"></rect>
+                <rect id="矩形" fill="#FFFFFF" x="213" y="83" width="10" height="4" rx="2"></rect>
+                <rect id="矩形备份-9" fill="#AAADBA" x="266" y="15" width="200" height="78" rx="2"></rect>
+                <g id="编组-17" transform="translate(457.000000, 37.000000)" fill="#FFFFFF">
+                    <rect id="矩形2" fill-opacity="0.5" transform="translate(2.000000, 29.000000) rotate(90.000000) translate(-2.000000, -29.000000) " x="-3" y="27" width="10" height="4" rx="2"></rect>
+                    <rect id="矩形备份" fill-opacity="0.5" transform="translate(2.000000, 17.000000) rotate(90.000000) translate(-2.000000, -17.000000) " x="-3" y="15" width="10" height="4" rx="2"></rect>
+                    <rect id="矩形" transform="translate(2.000000, 5.000000) rotate(90.000000) translate(-2.000000, -5.000000) " x="-3" y="3" width="10" height="4" rx="2"></rect>
+                </g>
+                <text id="style" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                    <tspan x="7" y="27">style</tspan>
+                </text>
+                <text id="horizontal" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                    <tspan x="122.993164" y="111">horizontal</tspan>
+                </text>
+                <text id="vertical" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                    <tspan x="345" y="111">vertical</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

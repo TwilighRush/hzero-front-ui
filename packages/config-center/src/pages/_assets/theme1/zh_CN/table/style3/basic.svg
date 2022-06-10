@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="932px" height="181px" viewBox="0 0 932 181" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>style3/basic</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10备份" transform="translate(-276.000000, -10510.000000)">
+            <g id="编组-47" transform="translate(224.000000, 9837.000000)">
+                <g id="style3" transform="translate(0.000000, 620.000000)">
+                    <g id="style3/basic" transform="translate(52.000000, 53.000000)">
+                        <rect id="Rectangle" fill="#F8F8F8" x="0" y="1" width="932" height="32" rx="2"></rect>
+                        <rect id="矩形" stroke="#F1F1F1" x="0.5" y="0.5" width="931" height="180"></rect>
+                        <rect id="矩形" fill="#F1F1F1" x="168" y="1" width="1" height="180"></rect>
+                        <rect id="矩形" fill="#F1F1F1" x="498" y="1" width="1" height="180"></rect>
+                        <rect id="矩形" fill="#F1F1F1" x="708" y="1" width="1" height="180"></rect>
+                        <g id="编组-3" transform="translate(24.000000, 8.000000)" font-size="12" line-spacing="20">
+                            <text id="标题" font-family="PingFangSC-Medium, PingFang SC" font-weight="400" fill="#333333">
+                                <tspan x="0" y="13">标题</tspan>
+                            </text>
+                            <text id="采购管理" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="48">采购管理</tspan>
+                            </text>
+                            <text id="销售管理" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="85">销售管理</tspan>
+                            </text>
+                            <text id="售后管理" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="122">售后管理</tspan>
+                            </text>
+                            <text id="退货管理" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="158">退货管理</tspan>
+                            </text>
+                        </g>
+                        <g id="编组-5" transform="translate(185.000000, 8.000000)" font-size="12" line-spacing="20">
+                            <text id="说明文案说明文案说明文案…" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="48">说明文案说明文案说明文案…</tspan>
+                            </text>
+                            <text id="说明文案说明文案说明文案…" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="85">说明文案说明文案说明文案…</tspan>
+                            </text>
+                            <text id="说明文案说明文案说明文案…" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="122">说明文案说明文案说明文案…</tspan>
+                            </text>
+                            <text id="说明文案说明文案说明文案…" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="158">说明文案说明文案说明文案…</tspan>
+                            </text>
+                            <text id="说明" font-family="PingFangSC-Medium, PingFang SC" font-weight="400" fill="#333333">
+                                <tspan x="0" y="13">说明</tspan>
+                            </text>
+                        </g>
+                        <g id="编组-6" transform="translate(515.000000, 8.000000)" font-size="12" line-spacing="20">
+                            <text id="管理员" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="48">管理员</tspan>
+                            </text>
+                            <text id="管理员" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="85">管理员</tspan>
+                            </text>
+                            <text id="管理员" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="122">管理员</tspan>
+                            </text>
+                            <text id="管理员" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="158">管理员</tspan>
+                            </text>
+                            <text id="发布人" font-family="PingFangSC-Medium, PingFang SC" font-weight="400" fill="#333333">
+                                <tspan x="0" y="13">发布人</tspan>
+                            </text>
+                        </g>
+                        <g id="编组-6" transform="translate(725.000000, 8.000000)" font-size="12" line-spacing="20">
+                            <text id="备注文案" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="48">备注文案</tspan>
+                            </text>
+                            <text id="备注文案" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="85">备注文案</tspan>
+                            </text>
+                            <text id="备注文案" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="122">备注文案</tspan>
+                            </text>
+                            <text id="备注文案" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#5A6677">
+                                <tspan x="0" y="158">备注文案</tspan>
+                            </text>
+                            <text id="备注" font-family="PingFangSC-Medium, PingFang SC" font-weight="400" fill="#333333">
+                                <tspan x="0" y="13">备注</tspan>
+                            </text>
+                        </g>
+                        <rect id="Rectangle" fill="#F1F1F1" x="0" y="70" width="932" height="1"></rect>
+                        <rect id="Rectangle" fill="#F1F1F1" x="0" y="107" width="932" height="1"></rect>
+                        <rect id="Rectangle" fill="#F1F1F1" x="0" y="144" width="932" height="1"></rect>
+                        <rect id="Rectangle" fill="#F1F1F1" x="0" y="33" width="932" height="1"></rect>
+                        <rect id="Rectangle" fill="#F1F1F1" x="0" y="0" width="932" height="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

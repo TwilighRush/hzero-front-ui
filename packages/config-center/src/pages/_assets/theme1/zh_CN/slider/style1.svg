@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="62px" viewBox="0 0 494 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>slider/style1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4588F4" offset="0%"></stop>
+            <stop stop-color="#386BD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10备份" transform="translate(-224.000000, -3812.000000)">
+            <g id="编组-29" transform="translate(224.000000, 3758.000000)">
+                <g id="slider/style1" transform="translate(0.000000, 54.000000)">
+                    <rect id="矩形备份" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="62"></rect>
+                    <g id="编组-9" transform="translate(52.000000, 17.000000)">
+                        <rect id="矩形" fill="#E2E2E2" x="0" y="7" width="200" height="4" rx="2"></rect>
+                        <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="7" width="80" height="4" rx="2"></rect>
+                        <g id="slider" transform="translate(71.000000, 0.000000)">
+                            <rect id="矩形" stroke="#3B87F5" stroke-width="2" fill="#CBE1FF" x="1" y="1" width="16" height="16" rx="3"></rect>
+                            <rect id="矩形" fill="#A3C0E8" x="6" y="6" width="2" height="6" rx="1"></rect>
+                            <rect id="矩形" fill="#A3C0E8" x="10" y="6" width="2" height="6" rx="1"></rect>
+                        </g>
+                        <text id="20" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" fill="#4F7DE7">
+                            <tspan x="72.9257812" y="32">20</tspan>
+                        </text>
+                    </g>
+                    <g id="编组-9备份-3" transform="translate(264.000000, 17.000000)">
+                        <rect id="矩形" fill="#E2E2E2" x="0" y="7" width="200" height="4" rx="2"></rect>
+                        <rect id="矩形" fill="#B1B1B1" x="0" y="7" width="84" height="4" rx="2"></rect>
+                        <g id="slider-disable" transform="translate(71.000000, 0.000000)">
+                            <rect id="矩形" stroke="#C9C9C9" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="16" height="16" rx="3"></rect>
+                            <rect id="矩形" fill="#E5E5E5" x="6" y="6" width="2" height="6" rx="1"></rect>
+                            <rect id="矩形" fill="#E5E5E5" x="10" y="6" width="2" height="6" rx="1"></rect>
+                        </g>
+                        <text id="20" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" fill="#333333">
+                            <tspan x="72.9257812" y="32">20</tspan>
+                        </text>
+                    </g>
+                    <text id="样式一" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                        <tspan x="8" y="27">样式一</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

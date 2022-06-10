@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="92px" viewBox="0 0 241 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Btn-style4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页1" transform="translate(-983.000000, -250.000000)">
+            <g id="编组-53备份" transform="translate(224.000000, 226.000000)">
+                <g id="Btn-style4" transform="translate(759.000000, 24.000000)">
+                    <rect id="矩形" fill="#B9B9B9" opacity="0.01" x="0" y="0" width="241" height="92"></rect>
+                    <g id="Group备份-7" transform="translate(55.000000, 12.000000)">
+                        <rect id="Rectangle" fill-opacity="0.01" fill="#F1F1F1" x="0" y="0" width="56" height="28" rx="2"></rect>
+                        <text id="create" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#4F7DE7">
+                            <tspan x="19" y="18">create</tspan>
+                        </text>
+                        <g id="编组-9" transform="translate(3.000000, 8.000000)">
+                            <rect id="矩形" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="12" height="12"></rect>
+                            <path d="M6,1 C6.27614237,1 6.5,1.22385763 6.5,1.5 L6.5,5.5 L10.5,5.5 C10.7761424,5.5 11,5.72385763 11,6 C11,6.27614237 10.7761424,6.5 10.5,6.5 L6.499,6.5 L6.5,10.5 C6.5,10.7761424 6.27614237,11 6,11 C5.72385763,11 5.5,10.7761424 5.5,10.5 L5.499,6.5 L1.5,6.5 C1.22385763,6.5 1,6.27614237 1,6 C1,5.72385763 1.22385763,5.5 1.5,5.5 L5.5,5.5 L5.5,1.5 C5.5,1.22385763 5.72385763,1 6,1 Z" id="矩形-3" fill="#4F7DE7"></path>
+                        </g>
+                    </g>
+                    <g id="Group备份-7" transform="translate(129.000000, 19.000000)" fill="#4F7DE7" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                        <text id="search">
+                            <tspan x="0" y="11">search</tspan>
+                        </text>
+                    </g>
+                    <g id="Group备份-7" transform="translate(175.000000, 12.000000)">
+                        <rect id="Rectangle" fill-opacity="0.01" fill="#F1F1F1" x="0" y="0" width="56" height="28" rx="2"></rect>
+                        <text id="reset" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#AAADBA">
+                            <tspan x="15" y="18">reset</tspan>
+                        </text>
+                    </g>
+                    <g id="Group备份-7" opacity="0.5" transform="translate(55.000000, 48.000000)">
+                        <rect id="Rectangle" fill-opacity="0.01" fill="#F1F1F1" x="0" y="0" width="56" height="28" rx="2"></rect>
+                        <text id="create" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#4F7DE7">
+                            <tspan x="19" y="18">create</tspan>
+                        </text>
+                        <g id="编组-9" transform="translate(3.000000, 8.000000)">
+                            <rect id="矩形" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="12" height="12"></rect>
+                            <path d="M6,1 C6.27614237,1 6.5,1.22385763 6.5,1.5 L6.5,5.5 L10.5,5.5 C10.7761424,5.5 11,5.72385763 11,6 C11,6.27614237 10.7761424,6.5 10.5,6.5 L6.499,6.5 L6.5,10.5 C6.5,10.7761424 6.27614237,11 6,11 C5.72385763,11 5.5,10.7761424 5.5,10.5 L5.499,6.5 L1.5,6.5 C1.22385763,6.5 1,6.27614237 1,6 C1,5.72385763 1.22385763,5.5 1.5,5.5 L5.5,5.5 L5.5,1.5 C5.5,1.22385763 5.72385763,1 6,1 Z" id="矩形-3" fill="#4F7DE7"></path>
+                        </g>
+                    </g>
+                    <g id="Group备份-7" opacity="0.5" transform="translate(129.000000, 55.000000)" fill="#4F7DE7" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                        <text id="search">
+                            <tspan x="0" y="11">search</tspan>
+                        </text>
+                    </g>
+                    <g id="Group备份-7" opacity="0.5" transform="translate(175.000000, 48.000000)">
+                        <rect id="Rectangle" fill-opacity="0.01" fill="#F1F1F1" x="0" y="0" width="56" height="28" rx="2"></rect>
+                        <text id="reset" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#AAADBA">
+                            <tspan x="15" y="18">reset</tspan>
+                        </text>
+                    </g>
+                    <text id="style4" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                        <tspan x="15" y="25">style4</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

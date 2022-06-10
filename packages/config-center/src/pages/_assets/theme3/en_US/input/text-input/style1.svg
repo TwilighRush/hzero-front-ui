@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="140px" viewBox="0 0 241 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>2-input1-style5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="一诺合同-配置组件-英文" transform="translate(-224.000000, -1152.000000)">
+            <rect fill="#F6F6F6" x="0" y="0" width="1440" height="9873"></rect>
+            <path d="M210,149 L1430,149 C1431.10457,149 1432,149.895431 1432,151 L1432,9188.5007 L1432,9188.5007 L1432,9867 C1432,9868.10457 1431.10457,9869 1430,9869 L210,9869 C208.895431,9869 208,9868.10457 208,9867 L208,151 C208,149.895431 208.895431,149 210,149 Z" id="Rectangle" fill="#FFFFFF"></path>
+            <g id="input-style1备份-5" transform="translate(224.000000, 1152.000000)">
+                <rect id="矩形备份" fill="#FAFAFA" opacity="0.01" x="0" y="0" width="241" height="140"></rect>
+                <g id="编组-10备份-26" transform="translate(32.000000, 19.000000)">
+                    <rect id="矩形备份-4" stroke-opacity="0.15" stroke="#000000" fill="#FFFFFF" x="0.5" y="21.5" width="176" height="79" rx="2"></rect>
+                    <g id="Footer备份" transform="translate(167.000000, 91.000000)" stroke="#D5DAE0">
+                        <line x1="7.93919084" y1="4" x2="4.23737092" y2="7.24264069" id="路径"></line>
+                        <line x1="7.5161929" y1="4.47641924e-13" x2="0" y2="7.24264069" id="路径-2"></line>
+                    </g>
+                    <text id="Enter-something" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#BFC3D0">
+                        <tspan x="8" y="39">Enter something</tspan>
+                    </text>
+                    <text id="style-1" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#4A5C90">
+                        <tspan x="0" y="13">style 1</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

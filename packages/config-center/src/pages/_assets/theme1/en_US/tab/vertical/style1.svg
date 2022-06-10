@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="158px" viewBox="0 0 494 158" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>tab/style3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件补充-英文" transform="translate(-224.000000, -1005.000000)">
+            <g id="编组-41" transform="translate(224.000000, 617.000000)">
+                <g id="tab/style3" transform="translate(0.000000, 388.000000)">
+                    <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="494" height="158"></rect>
+                    <g id="编组-2" transform="translate(60.000000, 15.000000)" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="22">
+                        <text id="Tab1" fill="#5A6677">
+                            <tspan x="0" y="15">Tab1</tspan>
+                        </text>
+                        <text id="Tab3" fill="#5A6677">
+                            <tspan x="0" y="107">Tab3</tspan>
+                        </text>
+                        <text id="Tab2" fill="#4F7DE7">
+                            <tspan x="0" y="61">Tab2</tspan>
+                        </text>
+                    </g>
+                    <rect id="Rectangle备份" fill="#EEEEEE" transform="translate(108.000000, 72.000000) rotate(-90.000000) translate(-108.000000, -72.000000) " x="51" y="71" width="114" height="2" rx="1"></rect>
+                    <rect id="Rectangle" fill="#4F7DE7" transform="translate(108.000000, 72.000000) rotate(-90.000000) translate(-108.000000, -72.000000) " x="97" y="71" width="22" height="2" rx="1"></rect>
+                    <g id="style1" transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                        <text>
+                            <tspan x="0.65234375" y="15">style1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

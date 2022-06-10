@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="135px" viewBox="0 0 494 135" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>poptip/style2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M199,0 C200.104569,-2.02906125e-16 201,0.8954305 201,2 L201,36.4 L208,42.0015322 L201,47.6 L201,82 C201,83.1045695 200.104569,84 199,84 L2,84 C0.8954305,84 1.3527075e-16,83.1045695 0,82 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 L199,0 Z" id="path-1"></path>
+        <filter x="-4.8%" y="-9.5%" width="109.6%" height="123.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.263781416   0 0 0 0 0.34026736   0 0 0 0 0.682942708  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页4" transform="translate(-767.000000, -2091.000000)">
+            <g id="编组-42" transform="translate(224.000000, 2013.000000)">
+                <g id="poptip/style2" transform="translate(543.000000, 78.000000)">
+                    <g id="编组-20">
+                        <rect id="矩形备份" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="135"></rect>
+                        <text id="Left" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="266" y="83">Left</tspan>
+                        </text>
+                        <text id="Right" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="410" y="83">Right</tspan>
+                        </text>
+                        <text id="Top" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="342" y="53">Top</tspan>
+                        </text>
+                        <text id="Bottom" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="332" y="113">Bottom</tspan>
+                        </text>
+                        <g id="style2" transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                            <text>
+                                <tspan x="0.65234375" y="15">style2</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="编组-9备份-2" transform="translate(50.000000, 36.000000)">
+                        <g id="Rectangle-2">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#0D2A53" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="编组-17" transform="translate(109.000000, 52.000000)">
+                            <rect id="矩形" fill="#4F7DE7" x="44" y="0" width="36" height="20" rx="2"></rect>
+                            <text id="yes" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="53" y="14">yes</tspan>
+                            </text>
+                            <rect id="矩形" stroke="#D5DAE0" x="0.5" y="0.5" width="35" height="19" rx="2"></rect>
+                            <text id="no" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#FEFEFE">
+                                <tspan x="11" y="14">no</tspan>
+                            </text>
+                        </g>
+                        <text id="Are-you-sure-delete" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="30" y="24">Are you sure delete this task?</tspan>
+                        </text>
+                        <g id="编组-2" transform="translate(12.000000, 13.000000)">
+                            <circle id="椭圆形" fill="#F8B303" cx="7" cy="7" r="7"></circle>
+                            <circle id="椭圆形" fill="#FFFFFF" cx="7" cy="10" r="1"></circle>
+                            <rect id="矩形" fill="#FFFFFF" x="6" y="3" width="2" height="5" rx="1"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

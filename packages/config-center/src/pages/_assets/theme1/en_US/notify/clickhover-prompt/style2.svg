@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="106px" viewBox="0 0 494 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>clickhover-prompt/style2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M208,15 C210.209139,15 212,16.790861 212,19 L212,54 C212,56.209139 210.209139,58 208,58 L141.846,58 L133.412714,66.4169497 C132.63201,67.1960014 131.36799,67.1960014 130.587286,66.4169497 L122.153,58 L56,58 C53.790861,58 52,56.209139 52,54 L52,19 C52,16.790861 53.790861,15 56,15 L208,15 Z" id="path-1"></path>
+        <filter x="-6.2%" y="-15.4%" width="112.5%" height="138.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.309803922   0 0 0 0 0.490196078   0 0 0 0 0.905882353  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M420,15 C422.209139,15 424,16.790861 424,19 L424,54 C424,56.209139 422.209139,58 420,58 L353.846,58 L345.412714,66.4169497 C344.63201,67.1960014 343.36799,67.1960014 342.587286,66.4169497 L334.153,58 L268,58 C265.790861,58 264,56.209139 264,54 L264,19 C264,16.790861 265.790861,15 268,15 L420,15 Z" id="path-3"></path>
+        <filter x="-6.2%" y="-15.4%" width="112.5%" height="138.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.309803922   0 0 0 0 0.490196078   0 0 0 0 0.905882353  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页3" transform="translate(-730.000000, -3570.000000)">
+            <g id="编组-35" transform="translate(224.000000, 2235.000000)">
+                <g id="clickhover-prompt/style2" transform="translate(506.000000, 1335.000000)">
+                    <g id="编组-20">
+                        <rect id="矩形备份" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="494" height="106"></rect>
+                        <text id="Click" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="117" y="87">Click</tspan>
+                        </text>
+                        <text id="Hover" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="325" y="87">Hover</tspan>
+                        </text>
+                        <g id="提示框">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <path stroke="#4F7DE7" stroke-width="1" d="M208,15.5 L56,15.5 C54.0670034,15.5 52.5,17.0670034 52.5,19 L52.5,54 C52.5,55.9329966 54.0670034,57.5 56,57.5 L122.359806,57.5 L130.940464,66.0630219 C131.525993,66.6473107 132.474007,66.6473107 133.059504,66.0630538 L141.639177,57.5 L208,57.5 C209.932997,57.5 211.5,55.9329966 211.5,54 L211.5,19 C211.5,17.0670034 209.932997,15.5 208,15.5 Z" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd"></path>
+                        </g>
+                        <g id="提示框备份-2">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <path stroke="#4F7DE7" stroke-width="1" d="M420,15.5 L268,15.5 C266.067003,15.5 264.5,17.0670034 264.5,19 L264.5,54 C264.5,55.9329966 266.067003,57.5 268,57.5 L334.359806,57.5 L342.940464,66.0630219 C343.525993,66.6473107 344.474007,66.6473107 345.059504,66.0630538 L353.639177,57.5 L420,57.5 C421.932997,57.5 423.5,55.9329966 423.5,54 L423.5,19 C423.5,17.0670034 421.932997,15.5 420,15.5 Z" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd"></path>
+                        </g>
+                        <text id="Prompt-Text" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="94" y="41">Prompt Text</tspan>
+                        </text>
+                        <text id="Prompt-Text" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="306" y="41">Prompt Text</tspan>
+                        </text>
+                        <g id="style2" transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                            <text>
+                                <tspan x="0.65234375" y="15">style2</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

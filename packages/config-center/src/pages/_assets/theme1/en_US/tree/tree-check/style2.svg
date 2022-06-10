@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="197px" viewBox="0 0 241 197" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>tree-check/style2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="5 7.68048012 0.123236337 2.89238489 0.908910539 2.12099568 5.00284025 6.13491308 9.05160734 2.15975994 9.83728155 2.93114915"></polygon>
+        <polygon id="path-3" points="5 7.68048012 0.123236337 2.89238489 0.908910539 2.12099568 5.00284025 6.13491308 9.05160734 2.15975994 9.83728155 2.93114915"></polygon>
+        <polygon id="path-5" points="5 7.68048012 0.123236337 2.89238489 0.908910539 2.12099568 5.00284025 6.13491308 9.05160734 2.15975994 9.83728155 2.93114915"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页2" transform="translate(-477.000000, -1962.000000)">
+            <g id="编组" transform="translate(224.000000, 1631.000000)">
+                <g id="tree-check/style2" transform="translate(253.000000, 331.000000)">
+                    <g id="编组-20">
+                        <rect id="矩形备份" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="241" height="197"></rect>
+                        <text id="parent1" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#333333">
+                            <tspan x="80" y="31">parent1</tspan>
+                        </text>
+                        <g id="编组-6" transform="translate(192.000000, 20.000000)">
+                            <rect id="Rectangle" stroke="#4F7DE7" x="0.5" y="0.5" width="13" height="13" rx="2"></rect>
+                            <rect id="矩形" fill="#4F7DE7" x="4" y="6.5" width="6" height="1" rx="0.5"></rect>
+                        </g>
+                        <text id="parent2" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#4F7DE7">
+                            <tspan x="80" y="133">parent2</tspan>
+                        </text>
+                        <g id="arrow-down" transform="translate(67.000000, 163.000000) rotate(-90.000000) translate(-67.000000, -163.000000) translate(62.000000, 158.000000)">
+                            <rect id="Rectangle" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="10" height="10"></rect>
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Path-2" fill="#333333" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        </g>
+                        <text id="parent3" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#333333">
+                            <tspan x="80" y="167">parent3</tspan>
+                        </text>
+                        <text id="leaf1-1" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#4F7DE7">
+                            <tspan x="90" y="65">leaf1-1</tspan>
+                        </text>
+                        <g id="勾选备份-26" transform="translate(191.000000, 53.000000)">
+                            <g id="编组-4">
+                                <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="16" height="16"></rect>
+                                <path d="M4.22066539,4.55425032 C4.58885523,4.55425032 4.88733206,4.85272716 4.88733206,5.22091699 L4.88699873,8.55325032 L12.2206654,8.55425032 C12.5888552,8.55425032 12.8873321,8.85272716 12.8873321,9.22091699 C12.8873321,9.58910682 12.5888552,9.88758366 12.2206654,9.88758366 L4.22066539,9.88758366 L4.22066539,9.88758366 C3.85247556,9.88758366 3.55399873,9.58910682 3.55399873,9.22091699 L3.55399873,5.22091699 C3.55399873,4.85272716 3.85247556,4.55425032 4.22066539,4.55425032 Z" id="矩形-2" fill="#4F7DE7" transform="translate(8.220665, 7.220917) rotate(-45.000000) translate(-8.220665, -7.220917) "></path>
+                            </g>
+                        </g>
+                        <g id="勾选备份-26" transform="translate(191.000000, 121.000000)">
+                            <g id="编组-4">
+                                <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="16" height="16"></rect>
+                                <path d="M4.22066539,4.55425032 C4.58885523,4.55425032 4.88733206,4.85272716 4.88733206,5.22091699 L4.88699873,8.55325032 L12.2206654,8.55425032 C12.5888552,8.55425032 12.8873321,8.85272716 12.8873321,9.22091699 C12.8873321,9.58910682 12.5888552,9.88758366 12.2206654,9.88758366 L4.22066539,9.88758366 L4.22066539,9.88758366 C3.85247556,9.88758366 3.55399873,9.58910682 3.55399873,9.22091699 L3.55399873,5.22091699 C3.55399873,4.85272716 3.85247556,4.55425032 4.22066539,4.55425032 Z" id="矩形-2" fill="#4F7DE7" transform="translate(8.220665, 7.220917) rotate(-45.000000) translate(-8.220665, -7.220917) "></path>
+                            </g>
+                        </g>
+                        <text id="leaf1-2" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                            <tspan x="90" y="99">leaf1-2</tspan>
+                        </text>
+                        <g id="arrow-down" transform="translate(62.000000, 22.000000)">
+                            <rect id="Rectangle" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="10" height="10"></rect>
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Path-2" fill="#333333" fill-rule="nonzero" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="arrow-down" transform="translate(67.000000, 129.000000) rotate(-90.000000) translate(-67.000000, -129.000000) translate(62.000000, 124.000000)">
+                            <rect id="Rectangle" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="10" height="10"></rect>
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="Path-2" fill="#333333" fill-rule="nonzero" xlink:href="#path-5"></use>
+                        </g>
+                        <g id="style2" transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                            <text>
+                                <tspan x="0.65234375" y="15">style2</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

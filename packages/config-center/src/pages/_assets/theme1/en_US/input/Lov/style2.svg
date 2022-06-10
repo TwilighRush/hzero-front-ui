@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="68px" viewBox="0 0 241 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Lov/style2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页1" transform="translate(-477.000000, -1315.000000)">
+            <g id="编组-36备份" transform="translate(224.000000, 517.000000)">
+                <g id="Lov/style2" transform="translate(253.000000, 798.000000)">
+                    <g id="编组-20">
+                        <rect id="矩形备份" fill-opacity="0.01" fill="#F6F6F6" x="0" y="0" width="241" height="68"></rect>
+                        <rect id="矩形备份-4" stroke-opacity="0.15" stroke="#000000" fill="#FFFFFF" x="8.5" y="32.5" width="224" height="27" rx="2"></rect>
+                        <text id="Select" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#AAADBA">
+                            <tspan x="16" y="50">Select</tspan>
+                        </text>
+                        <g id="编组-19" transform="translate(213.000000, 40.000000)">
+                            <rect id="矩形" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="12" height="12"></rect>
+                            <g id="编组-13" stroke="#AAADBA">
+                                <circle id="椭圆形" cx="5" cy="5" r="4.5"></circle>
+                                <rect id="矩形" fill="#D8D8D8" transform="translate(9.596194, 9.596194) rotate(-45.000000) translate(-9.596194, -9.596194) " x="9.59619408" y="7.59619408" width="1" height="4" rx="0.5"></rect>
+                            </g>
+                        </g>
+                        <g id="style1" transform="translate(8.000000, 6.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                            <text>
+                                <tspan x="0.65234375" y="15">style2</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

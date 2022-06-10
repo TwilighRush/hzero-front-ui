@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="174px" viewBox="0 0 494 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>list-single+operate/style3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="64" y="50" width="400" height="52" rx="1.5"></rect>
+        <filter x="-1.2%" y="-7.7%" width="102.5%" height="119.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="64" y="106" width="400" height="52" rx="1.5"></rect>
+        <filter x="-1.2%" y="-7.7%" width="102.5%" height="119.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页3" transform="translate(-224.000000, -981.000000)">
+            <g id="编组-16" transform="translate(224.000000, 173.000000)">
+                <g id="list-single+operate/style3" transform="translate(0.000000, 808.000000)">
+                    <g id="编组-20">
+                        <rect id="矩形备份" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="494" height="174"></rect>
+                        <g id="编组-3" transform="translate(64.000000, 24.000000)" fill="#333333" font-family="ArialMT, Arial" font-size="14" font-weight="normal">
+                            <text id="Header">
+                                <tspan x="0" y="13">Header</tspan>
+                            </text>
+                        </g>
+                        <g id="矩形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="编组-15" transform="translate(396.000000, 62.000000)">
+                            <rect id="矩形" stroke="#D5DAE0" fill="#FFFFFF" x="0.5" y="0.5" width="55" height="27" rx="1.5"></rect>
+                            <text id="Actions" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#333333">
+                                <tspan x="8" y="18">Actions</tspan>
+                            </text>
+                        </g>
+                        <circle id="椭圆形" fill="#D8D8D8" cx="94" cy="76" r="18"></circle>
+                        <text id="This-is-a-piece-of-t" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                            <tspan x="124" y="80">This is a piece of text.</tspan>
+                        </text>
+                        <g id="矩形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="编组-15" transform="translate(396.000000, 118.000000)">
+                            <rect id="矩形" stroke="#D5DAE0" fill="#FFFFFF" x="0.5" y="0.5" width="55" height="27" rx="1.5"></rect>
+                            <text id="Actions" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#333333">
+                                <tspan x="8" y="18">Actions</tspan>
+                            </text>
+                        </g>
+                        <circle id="椭圆形" fill="#D8D8D8" cx="94" cy="132" r="18"></circle>
+                        <text id="This-is-a-piece-of-t" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                            <tspan x="124" y="136">This is a piece of text.</tspan>
+                        </text>
+                        <g id="style3" transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                            <text>
+                                <tspan x="0.65234375" y="15">style3</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

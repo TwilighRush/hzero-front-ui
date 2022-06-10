@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="54px" viewBox="0 0 241 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>required-color/style2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10备份" transform="translate(-473.000000, -1719.000000)">
+            <g id="编组-36" transform="translate(220.000000, 624.000000)">
+                <g id="编组-22" transform="translate(0.000000, 1062.000000)">
+                    <g id="required-color/style2" transform="translate(253.000000, 33.000000)">
+                        <rect id="矩形" fill="#FAFAFA" opacity="0.01" x="0" y="0" width="241" height="54"></rect>
+                        <text id="样式二" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                            <tspan x="8" y="28">样式二</tspan>
+                        </text>
+                        <g id="Select/Medium/Placeholder备份" transform="translate(51.500000, 12.000000)" fill="#FFF6DE" stroke="#FBCD6C">
+                            <path d="M1,1.99124431 L1,26.0087557 C1,26.8265218 1.67549319,27.5 2.50301269,27.5 L175.496987,27.5 C176.332296,27.5 177,26.8345206 177,26.0087557 L177,1.99124431 C177,1.17347817 176.324507,0.5 175.496987,0.5 L2.50301269,0.5 C1.66770389,0.5 1,1.1654794 1,1.99124431 Z" id="Rectangle-26-Copy-23"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

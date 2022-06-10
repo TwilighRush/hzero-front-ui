@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="76px" viewBox="0 0 494 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>style1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页4" transform="translate(-224.000000, -3131.000000)">
+            <g id="编组-43备份" transform="translate(224.000000, 3077.000000)">
+                <g id="style1" transform="translate(0.000000, 54.000000)">
+                    <rect id="矩形" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="76"></rect>
+                    <g id="编组-37" transform="translate(79.000000, 14.000000)">
+                        <text id="Step1" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                            <tspan x="0" y="43">Step1</tspan>
+                        </text>
+                        <text id="Step2" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                            <tspan x="130" y="43">Step2</tspan>
+                        </text>
+                        <text id="Step3" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#9B9B9B">
+                            <tspan x="260" y="43">Step3</tspan>
+                        </text>
+                        <rect id="矩形" fill="#E5E9EC" x="152" y="10" width="117" height="4" rx="1"></rect>
+                        <rect id="矩形" fill="#4F7DE7" x="22" y="10" width="196" height="4" rx="1"></rect>
+                        <circle id="椭圆形" stroke="#4F7DE7" fill="#4F7DE7" cx="16" cy="12" r="11.5"></circle>
+                        <path d="M11,8 C11.5522847,8 12,8.44771525 12,9 L12,13 L22,13 C22.5522847,13 23,13.4477153 23,14 C23,14.5522847 22.5522847,15 22,15 L11,15 L11,15 C10.4477153,15 10,14.5522847 10,14 L10,9 C10,8.44771525 10.4477153,8 11,8 Z" id="矩形-10" fill="#FFFFFF" transform="translate(16.500000, 11.500000) rotate(-45.000000) translate(-16.500000, -11.500000) "></path>
+                        <g id="编组-34" transform="translate(134.000000, 0.000000)">
+                            <circle id="椭圆形" stroke="#4F7DE7" fill="#FFFFFF" cx="12" cy="12" r="11.5"></circle>
+                            <text id="2" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#4F7DE7">
+                                <tspan x="8" y="17">2</tspan>
+                            </text>
+                        </g>
+                        <circle id="椭圆形" fill="#E5E9EC" cx="276" cy="12" r="12"></circle>
+                    </g>
+                    <text id="3" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="351" y="31">3</tspan>
+                    </text>
+                    <g transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                        <text>
+                            <tspan x="0.65234375" y="15">style1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

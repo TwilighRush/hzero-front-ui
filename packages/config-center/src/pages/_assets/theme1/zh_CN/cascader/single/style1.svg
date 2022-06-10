@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="210px" viewBox="0 0 494 210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>cascader/style3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M52,21.9912443 C52,20.8915104 52.8916855,20 53.9956621,20 L250.004338,20 C251.106512,20 252,20.8998975 252,21.9912443 L252,46.0087557 C252,47.1084896 251.108315,48 250.004338,48 L53.9956621,48 C52.8934884,48 52,47.1001025 52,46.0087557 L52,21.9912443 Z" id="path-1"></path>
+        <filter x="-3.0%" y="-21.4%" width="106.0%" height="142.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.309803922   0 0 0 0 0.490196078   0 0 0 0 0.905882353  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件补充-中文" transform="translate(-224.000000, -1983.000000)">
+            <g id="cascader/style3" transform="translate(224.000000, 1983.000000)">
+                <rect id="矩形备份-3" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="210"></rect>
+                <g id="Rectangle-26-Copy-23备份-7">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <path stroke="#4F7DE7" stroke-width="1" d="M52.5,21.9912443 L52.5,46.0087557 C52.5,46.8269339 53.1726026,47.5 53.9956621,47.5 L250.004338,47.5 C250.831728,47.5 251.5,46.8327905 251.5,46.0087557 L251.5,21.9912443 C251.5,21.1730661 250.827397,20.5 250.004338,20.5 L53.9956621,20.5 C53.1682725,20.5 52.5,21.1672095 52.5,21.9912443 Z" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd"></path>
+                </g>
+                <path d="M52.5,53.999906 L52.5,185.000094 C52.5,185.827313 53.1702517,186.5 53.994307,186.5 L356.005693,186.5 C356.823104,186.5 357.5,185.824076 357.5,185.000094 L357.5,53.999906 C357.5,53.1726873 356.829748,52.5 356.005693,52.5 L53.994307,52.5 C53.176896,52.5 52.5,53.1759237 52.5,53.999906 Z" id="Rectangle-26-Copy-23备份-9" stroke="#D9D9D9" fill="#FFFFFF"></path>
+                <rect id="矩形备份-9" fill="#EFF6FF" x="53" y="87" width="76" height="28"></rect>
+                <rect id="矩形备份-10" fill="#FFFFFF" x="129" y="87" width="76" height="28"></rect>
+                <rect id="矩形备份-17" fill="#FFFFFF" x="129" y="115" width="76" height="28"></rect>
+                <rect id="矩形备份-11" fill="#FFFFFF" x="205" y="87" width="76" height="28"></rect>
+                <rect id="矩形备份-18" fill="#FFFFFF" x="205" y="115" width="76" height="28"></rect>
+                <rect id="矩形备份-12" fill="#FFFFFF" x="281" y="87" width="76" height="28"></rect>
+                <rect id="矩形备份-19" fill="#FFFFFF" x="281" y="115" width="76" height="28"></rect>
+                <polygon id="Rectangle-26-Copy-23备份-6" fill="#D9D9D9" transform="translate(205.000000, 82.500000) rotate(-180.000000) translate(-205.000000, -82.500000) " points="53 82 357 82 357 83 53 83"></polygon>
+                <rect id="矩形" fill="#4F7DE7" x="113" y="82" width="46" height="1"></rect>
+                <text id="层级1/层级2" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="60" y="37">层级1/层级2</tspan>
+                </text>
+                <text id="层级1" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="68" y="73">层级1</tspan>
+                </text>
+                <text id="层级2" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="60" y="104">层级2</tspan>
+                </text>
+                <text id="层级2备份-2" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="60" y="132">层级2</tspan>
+                </text>
+                <text id="层级2" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="137" y="104">层级2</tspan>
+                </text>
+                <text id="层级2备份-3" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="137" y="132">层级2</tspan>
+                </text>
+                <text id="层级2" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="212" y="104">层级2</tspan>
+                </text>
+                <text id="层级2备份-4" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="212" y="132">层级2</tspan>
+                </text>
+                <text id="层级2" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="288" y="104">层级2</tspan>
+                </text>
+                <text id="层级2备份-5" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="288" y="132">层级2</tspan>
+                </text>
+                <text id="层级2" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="120" y="72">层级2</tspan>
+                </text>
+                <g id="delete" transform="translate(236.000000, 29.000000)">
+                    <rect id="矩形" fill="#D8D8D8" opacity="0.01" x="0" y="0" width="10" height="10"></rect>
+                    <path d="M7.82842712,2.17157288 C8.02368927,2.36683502 8.02368927,2.68341751 7.82842712,2.87867966 L5.70710678,5 L7.82842712,7.12132034 C8.02368927,7.31658249 8.02368927,7.63316498 7.82842712,7.82842712 C7.63316498,8.02368927 7.31658249,8.02368927 7.12132034,7.82842712 L5,5.70710678 L2.87867966,7.82842712 C2.68341751,8.02368927 2.36683502,8.02368927 2.17157288,7.82842712 C1.97631073,7.63316498 1.97631073,7.31658249 2.17157288,7.12132034 L4.29289322,5 L2.17157288,2.87867966 C1.97631073,2.68341751 1.97631073,2.36683502 2.17157288,2.17157288 C2.36683502,1.97631073 2.68341751,1.97631073 2.87867966,2.17157288 L5,4.29289322 L7.12132034,2.17157288 C7.31658249,1.97631073 7.63316498,1.97631073 7.82842712,2.17157288 Z" id="路径" fill="#666666"></path>
+                </g>
+                <text id="样式三" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                    <tspan x="8" y="35">样式三</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="218px" viewBox="0 0 494 218" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>list-single/style3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="64" y="50" width="400" height="36" rx="1.5"></rect>
+        <filter x="-1.2%" y="-11.1%" width="102.5%" height="127.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="64" y="90" width="400" height="36" rx="1.5"></rect>
+        <filter x="-1.2%" y="-11.1%" width="102.5%" height="127.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="64" y="130" width="400" height="36" rx="1.5"></rect>
+        <filter x="-1.2%" y="-11.1%" width="102.5%" height="127.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="64" y="170" width="400" height="36" rx="1.5"></rect>
+        <filter x="-1.2%" y="-11.1%" width="102.5%" height="127.8%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页3" transform="translate(-224.000000, -501.000000)">
+            <g id="编组-16" transform="translate(224.000000, 173.000000)">
+                <g id="list-single/style3" transform="translate(0.000000, 328.000000)">
+                    <g id="编组-20">
+                        <rect id="矩形备份" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="494" height="218"></rect>
+                        <g id="编组-3" transform="translate(64.000000, 23.000000)" fill="#333333" font-family="ArialMT, Arial" font-size="14" font-weight="normal">
+                            <text id="Header">
+                                <tspan x="0" y="13">Header</tspan>
+                            </text>
+                        </g>
+                        <g id="矩形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <text id="This-is-a-piece-of-t" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                            <tspan x="72" y="72">This is a piece of text.</tspan>
+                        </text>
+                        <g id="矩形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <text id="This-is-a-piece-of-t" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                            <tspan x="72" y="112">This is a piece of text.</tspan>
+                        </text>
+                        <g id="矩形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                        <text id="This-is-a-piece-of-t" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                            <tspan x="72" y="152">This is a piece of text.</tspan>
+                        </text>
+                        <g id="矩形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        </g>
+                        <text id="This-is-a-piece-of-t" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                            <tspan x="72" y="192">This is a piece of text.</tspan>
+                        </text>
+                        <g id="style3" transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                            <text>
+                                <tspan x="0.65234375" y="15">style3</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

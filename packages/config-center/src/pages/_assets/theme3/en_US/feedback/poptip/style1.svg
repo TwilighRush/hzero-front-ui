@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="135px" viewBox="0 0 494 135" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>17-Feedback-style1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M160,0 C161.104569,-2.02906125e-16 162,0.8954305 162,2 L162,36.401 L168.023987,41.2205722 C168.455217,41.5656221 168.525079,42.194921 168.180029,42.6261507 C168.133892,42.6838111 168.08151,42.7361835 168.023841,42.7823098 L162,47.6 L162,82 C162,83.1045695 161.104569,84 160,84 L2,84 C0.8954305,84 1.3527075e-16,83.1045695 0,82 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 L160,0 Z" id="path-1"></path>
+        <filter x="-5.9%" y="-9.5%" width="111.9%" height="123.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.263781416   0 0 0 0 0.34026736   0 0 0 0 0.682942708  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="一诺合同-配置组件2" transform="translate(-224.000000, -8004.000000)">
+            <rect fill="#F6F6F6" x="0" y="0" width="1440" height="9290"></rect>
+            <path d="M210,149 L1430,149 C1431.10457,149 1432,149.895431 1432,151 L1432,8635.15678 L1432,8635.15678 L1432,9272 C1432,9273.10457 1431.10457,9274 1430,9274 L210,9274 C208.895431,9274 208,9273.10457 208,9272 L208,151 C208,149.895431 208.895431,149 210,149 Z" id="Rectangle" fill="#FFFFFF"></path>
+            <g id="编组-30" transform="translate(224.000000, 8004.000000)">
+                <g id="编组-8备份-9">
+                    <g id="编组-20">
+                        <rect id="矩形备份" fill="#FAFAFA" x="0" y="0" width="494" height="135"></rect>
+                        <text id="左弹出" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="264" y="73">左弹出</tspan>
+                        </text>
+                        <text id="右弹出" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="428" y="73">右弹出</tspan>
+                        </text>
+                        <text id="上弹出" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="346" y="43">上弹出</tspan>
+                        </text>
+                        <text id="下弹出" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="346" y="103">下弹出</tspan>
+                        </text>
+                        <text id="样式" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                            <tspan x="8" y="27">样式</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="编组-9" transform="translate(83.000000, 26.000000)">
+                    <g id="Rectangle-2">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="编组-28" transform="translate(50.000000, 56.000000)">
+                        <rect id="Rectangle" stroke="#D5DAE0" fill="#FFFFFF" x="0.5" y="0.5" width="47" height="19" rx="9.5"></rect>
+                        <text id="操作" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#576679">
+                            <tspan x="12" y="15">操作</tspan>
+                        </text>
+                    </g>
+                    <g id="编组-15备份" transform="translate(106.000000, 56.000000)">
+                        <g id="Group备份-8">
+                            <rect id="Rectangle" fill="#4F7DE7" x="0" y="0" width="48" height="20" rx="10"></rect>
+                            <text id="操作" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="12" y="15">操作</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="确定要删除该条数据？" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#5A6677">
+                        <tspan x="30" y="25">确定要删除该条数据？</tspan>
+                    </text>
+                    <g id="提示" transform="translate(12.000000, 15.000000)">
+                        <circle id="椭圆形" fill="#F8B303" cx="6" cy="6" r="6"></circle>
+                        <circle id="椭圆形" fill="#FFFFFF" cx="6" cy="8.57142857" r="1"></circle>
+                        <rect id="矩形" fill="#FFFFFF" x="5.14285714" y="2.57142857" width="1.71428571" height="4.28571429" rx="0.857142857"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

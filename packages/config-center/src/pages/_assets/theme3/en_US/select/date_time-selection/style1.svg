@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="86px" viewBox="0 0 494 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>3-Selection1-style7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="一诺合同-配置组件-英文" transform="translate(-224.000000, -2345.000000)">
+            <rect fill="#F6F6F6" x="0" y="0" width="1440" height="9873"></rect>
+            <path d="M210,149 L1430,149 C1431.10457,149 1432,149.895431 1432,151 L1432,9188.5007 L1432,9188.5007 L1432,9867 C1432,9868.10457 1431.10457,9869 1430,9869 L210,9869 C208.895431,9869 208,9868.10457 208,9867 L208,151 C208,149.895431 208.895431,149 210,149 Z" id="Rectangle" fill="#FFFFFF"></path>
+            <g id="input-style1备份-12" transform="translate(224.000000, 2345.000000)">
+                <rect id="矩形备份" fill="#FAFAFA" opacity="0.01" x="0" y="0" width="241" height="86"></rect>
+                <g id="编组-10备份-25" transform="translate(32.000000, 19.000000)">
+                    <rect id="矩形备份-4" stroke-opacity="0.15" stroke="#000000" fill="#FFFFFF" x="0.5" y="21.5" width="176" height="25" rx="2"></rect>
+                    <g id="date备份-4" transform="translate(161.000000, 29.000000)" stroke="#333333">
+                        <rect id="矩形" x="0.5" y="1.5" width="9" height="8" rx="1"></rect>
+                        <rect id="矩形" fill="#D8D8D8" x="3.5" y="0.5" width="1" height="2" rx="0.5"></rect>
+                        <rect id="矩形" fill="#D8D8D8" x="6.5" y="0.5" width="1" height="2" rx="0.5"></rect>
+                        <rect id="矩形" fill="#D8D8D8" x="0.5" y="4.5" width="9" height="1"></rect>
+                        <rect id="矩形" fill="#D8D8D8" x="2.5" y="6.5" width="1" height="1" rx="0.5"></rect>
+                        <rect id="矩形" fill="#D8D8D8" x="6.5" y="7.5" width="1" height="1" rx="0.5"></rect>
+                    </g>
+                    <text id="2019-03-11-12:34:23" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" fill="#333333">
+                        <tspan x="8" y="39">2019-03-11 12:34:23</tspan>
+                    </text>
+                    <text id="style-1" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#4A5C90">
+                        <tspan x="0" y="13">style 1</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

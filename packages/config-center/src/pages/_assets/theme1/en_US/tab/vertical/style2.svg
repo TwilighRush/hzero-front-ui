@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="158px" viewBox="0 0 494 158" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>tab/style4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="组件补充-英文" transform="translate(-730.000000, -1005.000000)">
+            <g id="编组-41" transform="translate(224.000000, 617.000000)">
+                <g id="tab/style4" transform="translate(506.000000, 388.000000)">
+                    <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="7.38964445e-13" y="0" width="494" height="158"></rect>
+                    <g id="style2" transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                        <text>
+                            <tspan x="0.65234375" y="15">style2</tspan>
+                        </text>
+                    </g>
+                    <g id="编组-58" transform="translate(60.000000, 15.000000)">
+                        <rect id="矩形" fill="#FAFAFA" x="0" y="0" width="120" height="128"></rect>
+                        <rect id="矩形" fill="#EAF0FF" x="0" y="8" width="120" height="32"></rect>
+                        <text id="Tab1" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" line-spacing="16" fill="#4F7DE7">
+                            <tspan x="24" y="31">Tab1</tspan>
+                        </text>
+                        <text id="Tab2" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="16" fill="#333435">
+                            <tspan x="24" y="71">Tab2</tspan>
+                        </text>
+                        <text id="Tab3" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="16" fill="#333435">
+                            <tspan x="24" y="111">Tab3</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

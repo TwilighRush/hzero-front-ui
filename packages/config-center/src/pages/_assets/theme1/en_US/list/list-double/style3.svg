@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="218px" viewBox="0 0 494 218" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>list-double/style3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="64" y="50" width="400" height="60" rx="1.5"></rect>
+        <filter x="-1.2%" y="-6.7%" width="102.5%" height="116.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="64" y="114" width="400" height="60" rx="1.5"></rect>
+        <filter x="-1.2%" y="-6.7%" width="102.5%" height="116.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页3" transform="translate(-224.000000, -1461.000000)">
+            <g id="编组-16" transform="translate(224.000000, 173.000000)">
+                <g id="list-double/style3" transform="translate(0.000000, 1288.000000)">
+                    <g id="编组-20">
+                        <rect id="矩形备份" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="494" height="218"></rect>
+                        <text id="Header" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="64" y="37">Header</tspan>
+                        </text>
+                        <g id="矩形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <text id="This-is-title" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                            <tspan x="72" y="72">This is title</tspan>
+                        </text>
+                        <text id="This-is-description," font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#9B9B9B">
+                            <tspan x="72" y="96">This is description, this is description.</tspan>
+                        </text>
+                        <g id="矩形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <text id="This-is-title" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                            <tspan x="72" y="136">This is title</tspan>
+                        </text>
+                        <text id="This-is-description," font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#9B9B9B">
+                            <tspan x="72" y="160">This is description, this is description.</tspan>
+                        </text>
+                        <g id="style3" transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                            <text>
+                                <tspan x="0.65234375" y="15">style3</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

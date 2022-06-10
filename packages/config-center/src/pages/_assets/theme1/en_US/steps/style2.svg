@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="76px" viewBox="0 0 494 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>style2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,0 L136.198292,0 C136.495072,-1.60417291e-14 136.776519,0.13182301 136.966513,0.3598156 L148.933026,14.7196312 C149.551103,15.4613231 149.551103,16.5386769 148.933026,17.2803688 L136.966513,31.6401844 C136.776519,31.868177 136.495072,32 136.198292,32 L16,32 C7.163444,32 1.082166e-15,24.836556 0,16 C-1.082166e-15,7.163444 7.163444,1.623249e-15 16,0 Z" id="path-1"></path>
+        <filter x="-1.7%" y="-10.9%" width="104.3%" height="121.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M16,0 L106.198292,0 C106.495072,-2.98071424e-14 106.776519,0.13182301 106.966513,0.3598156 L118.933026,14.7196312 C119.551103,15.4613231 119.551103,16.5386769 118.933026,17.2803688 L106.966513,31.6401844 C106.776519,31.868177 106.495072,32 106.198292,32 L16,32 C7.163444,32 1.082166e-15,24.836556 0,16 C-1.082166e-15,7.163444 7.163444,1.623249e-15 16,0 Z" id="path-3"></path>
+        <filter x="-2.1%" y="-10.9%" width="105.3%" height="121.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页4" transform="translate(-730.000000, -3131.000000)">
+            <g id="编组-43备份" transform="translate(224.000000, 3077.000000)">
+                <g id="style2" transform="translate(506.000000, 54.000000)">
+                    <rect id="矩形" fill-opacity="0.01" fill="#FAFAFA" x="0" y="0" width="494" height="76"></rect>
+                    <g id="编组-50" transform="translate(69.000000, 14.000000)">
+                        <g id="编组-49" transform="translate(210.000000, 0.000000)">
+                            <path d="M16,0 L136.198292,0 C136.495072,-1.60417291e-14 136.776519,0.13182301 136.966513,0.3598156 L148.933026,14.7196312 C149.551103,15.4613231 149.551103,16.5386769 148.933026,17.2803688 L136.966513,31.6401844 C136.776519,31.868177 136.495072,32 136.198292,32 L16,32 C7.163444,32 1.082166e-15,24.836556 0,16 C-1.082166e-15,7.163444 7.163444,1.623249e-15 16,0 Z" id="矩形" fill="#E5E9EC"></path>
+                            <text id="Step3" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#5A6677">
+                                <tspan x="56" y="20">Step3</tspan>
+                            </text>
+                            <circle id="椭圆形" stroke="#5A6677" cx="47" cy="16" r="4.5"></circle>
+                        </g>
+                        <g id="编组-48" transform="translate(90.000000, 0.000000)">
+                            <g id="矩形">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <text id="Step2" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#4F7DE7">
+                                <tspan x="56" y="20">Step2</tspan>
+                            </text>
+                            <circle id="椭圆形" fill="#4F7DE7" cx="47" cy="16" r="5"></circle>
+                        </g>
+                        <g id="编组-38">
+                            <g id="矩形">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#4F7DE7" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                            <text id="Step1" font-family="ArialMT, Arial" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="26" y="20">Step1</tspan>
+                            </text>
+                            <g id="compete" transform="translate(12.000000, 11.000000)">
+                                <circle id="椭圆形" fill="#FFFFFF" cx="5" cy="5" r="5"></circle>
+                                <path d="M2.4956939,2.29224394 C2.77183627,2.29224394 2.9956939,2.51610156 2.9956939,2.79224394 L2.9956939,5.29224394 L7.4956939,5.29224394 C7.77183627,5.29224394 7.9956939,5.51610156 7.9956939,5.79224394 C7.9956939,6.06838631 7.77183627,6.29224394 7.4956939,6.29224394 L2.4956939,6.29224394 L2.4956939,6.29224394 C2.21955152,6.29224394 1.9956939,6.06838631 1.9956939,5.79224394 L1.9956939,2.79224394 C1.9956939,2.51610156 2.21955152,2.29224394 2.4956939,2.29224394 Z" id="矩形-11" fill="#4F7DE7" transform="translate(4.995694, 4.292244) rotate(-45.000000) translate(-4.995694, -4.292244) "></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                        <text>
+                            <tspan x="0.65234375" y="15">style2</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="52px" viewBox="0 0 494 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>4-Paging</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="一诺合同-配置组件备份-2" transform="translate(-224.000000, -2457.000000)">
+            <rect fill="#F6F6F6" x="0" y="0" width="1440" height="9290"></rect>
+            <path d="M210,149 L1430,149 C1431.10457,149 1432,149.895431 1432,151 L1432,8635.15678 L1432,8635.15678 L1432,9272 C1432,9273.10457 1431.10457,9274 1430,9274 L210,9274 C208.895431,9274 208,9273.10457 208,9272 L208,151 C208,149.895431 208.895431,149 210,149 Z" id="Rectangle" fill="#FFFFFF"></path>
+            <g id="paging/style2" transform="translate(224.000000, 2457.000000)">
+                <rect id="矩形备份-2" fill="#FAFAFA" opacity="0.01" x="0" y="0" width="494" height="52"></rect>
+                <text id="样式" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#525A6E">
+                    <tspan x="8" y="28">样式</tspan>
+                </text>
+                <g id="page" transform="translate(52.000000, 14.000000)">
+                    <g id="turnpage-right备份" transform="translate(48.000000, 12.000000) scale(-1, 1) translate(-48.000000, -12.000000) translate(36.000000, 0.000000)">
+                        <rect id="矩形" stroke="#E3E3E3" fill="#F6F6F6" x="0.5" y="0.5" width="23" height="23" rx="4"></rect>
+                        <polyline id="路径" stroke="#B7B7B7" transform="translate(12.559525, 12.349971) rotate(180.000000) translate(-12.559525, -12.349971) " points="15.1190498 8 10 12.5251749 15.1190498 16.6999419"></polyline>
+                    </g>
+                    <g id="turnpage-right备份-2" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) ">
+                        <rect id="矩形" stroke="#E3E3E3" fill="#F6F6F6" x="0.5" y="0.5" width="23" height="23" rx="4"></rect>
+                        <polyline id="路径" stroke="#B7B7B7" transform="translate(11.559525, 12.349971) rotate(180.000000) translate(-11.559525, -12.349971) " points="14.1190498 8 9 12.5251749 14.1190498 16.6999419"></polyline>
+                        <line x1="14.7859442" y1="8" x2="14.7859442" y2="16.6999419" id="路径-3" stroke="#B7B7B7"></line>
+                    </g>
+                    <g id="turnpage-right备份-3" transform="translate(288.000000, 0.000000)">
+                        <rect id="矩形" stroke="#E3E3E3" x="0.5" y="0.5" width="23" height="23" rx="4"></rect>
+                        <polyline id="路径" stroke="#666666" transform="translate(12.559525, 12.349971) rotate(180.000000) translate(-12.559525, -12.349971) " points="15.1190498 8 10 12.5251749 15.1190498 16.6999419"></polyline>
+                    </g>
+                    <g id="turnpage-right" transform="translate(324.000000, 0.000000)">
+                        <rect id="矩形" stroke="#E3E3E3" x="0.5" y="0.5" width="23" height="23" rx="4"></rect>
+                        <polyline id="路径" stroke="#666666" transform="translate(11.559525, 12.349971) rotate(180.000000) translate(-11.559525, -12.349971) " points="14.1190498 8 9 12.5251749 14.1190498 16.6999419"></polyline>
+                        <line x1="14.7859442" y1="8" x2="14.7859442" y2="16.6999419" id="路径-3" stroke="#666666"></line>
+                    </g>
+                    <g id="分组-3-copy-2" transform="translate(372.000000, 4.000000)">
+                        <g id="路径-2" transform="translate(47.000000, 5.000000)">
+                            <polyline id="路径" stroke="#666666" transform="translate(4.959525, 3.349971) rotate(270.000000) translate(-4.959525, -3.349971) " points="7.51904985 -1 2.40000003 3.5251749 7.51904985 7.69994188"></polyline>
+                            <rect id="矩形" x="0" y="0" width="10" height="6"></rect>
+                        </g>
+                        <text id="10条/页" font-family="PingFangSC-Regular, PingFang SC" font-size="11" font-weight="normal" fill="#666666">
+                            <tspan x="0" y="12">10条/页</tspan>
+                        </text>
+                    </g>
+                    <rect id="矩形" stroke="#E3E3E3" x="364.5" y="0.5" width="72" height="23" rx="4"></rect>
+                    <g id="分组-3-copy" transform="translate(72.000000, 0.000000)">
+                        <rect id="矩形" fill="#E4EFFF" x="0" y="0" width="24" height="24" rx="4"></rect>
+                        <text id="1" font-family="PingFangSC-Medium, PingFang SC" font-size="11" font-weight="400" fill="#4F7DE7">
+                            <tspan x="9.756" y="16">1</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-3-copy" transform="translate(108.000000, 0.000000)">
+                        <rect id="矩形" stroke="#E3E3E3" x="0.5" y="0.5" width="23" height="23" rx="4"></rect>
+                        <text id="2" font-family="ArialMT, Arial" font-size="11" font-weight="normal" fill="#666666">
+                            <tspan x="8.94116211" y="16">2</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-3-copy" transform="translate(144.000000, 0.000000)">
+                        <rect id="矩形" stroke="#E3E3E3" x="0.5" y="0.5" width="23" height="23" rx="4"></rect>
+                        <text id="3" font-family="ArialMT, Arial" font-size="11" font-weight="normal" fill="#666666">
+                            <tspan x="8.94116211" y="16">3</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-3-copy备份" transform="translate(180.000000, 0.000000)">
+                        <rect id="矩形" stroke="#E3E3E3" x="0.5" y="0.5" width="23" height="23" rx="4"></rect>
+                        <text id="4" font-family="ArialMT, Arial" font-size="11" font-weight="normal" fill="#666666">
+                            <tspan x="8.94116211" y="16">4</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-3-copy备份-2" transform="translate(252.000000, 0.000000)">
+                        <rect id="矩形" stroke="#E3E3E3" x="0.5" y="0.5" width="23" height="23" rx="4"></rect>
+                        <text id="20" font-family="ArialMT, Arial" font-size="11" font-weight="normal" fill="#666666">
+                            <tspan x="6.38232422" y="16">20</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-3-copy备份-3" transform="translate(221.000000, 10.000000)" fill="#666666">
+                        <path d="M1.5,0 C2.32842712,0 3,0.671572875 3,1.5 C3,2.32842712 2.32842712,3 1.5,3 C0.671572875,3 0,2.32842712 0,1.5 C0,0.671572875 0.671572875,0 1.5,0 Z M7.5,0 C8.32842712,0 9,0.671572875 9,1.5 C9,2.32842712 8.32842712,3 7.5,3 C6.67157288,3 6,2.32842712 6,1.5 C6,0.671572875 6.67157288,0 7.5,0 Z M13.5,0 C14.3284271,0 15,0.671572875 15,1.5 C15,2.32842712 14.3284271,3 13.5,3 C12.6715729,3 12,2.32842712 12,1.5 C12,0.671572875 12.6715729,0 13.5,0 Z" id="椭圆形-2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

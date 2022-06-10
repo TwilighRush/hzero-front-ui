@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="131px" viewBox="0 0 494 131" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>ring/style1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="12.5765715%" y1="23.4044672%" x2="66.3572569%" y2="36.1886478%" id="linearGradient-1">
+            <stop stop-color="#4F7DE7" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#4F7DE7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.2949845%" y1="41.2740806%" x2="56.1055292%" y2="45.9753766%" id="linearGradient-2">
+            <stop stop-color="#FF4141" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#FF4141" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="96.1645581%" y1="13.7624474%" x2="33.4945402%" y2="53.4535488%" id="linearGradient-3">
+            <stop stop-color="#44CE6E" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#44CE6E" stop-opacity="0.747672399" offset="70.5211121%"></stop>
+            <stop stop-color="#44CE6E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="配置组件V10分页4" transform="translate(-224.000000, -2890.000000)">
+            <g id="编组-43" transform="translate(224.000000, 2646.000000)">
+                <g id="ring/style1" transform="translate(0.000000, 244.000000)">
+                    <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="494" height="131"></rect>
+                    <g id="编组-25" transform="translate(78.000000, 15.000000)">
+                        <circle id="椭圆形" stroke="#F0F0F0" stroke-width="6" cx="50" cy="50" r="50"></circle>
+                        <text id="75%" font-family="ArialMT, Arial" font-size="20" font-weight="normal" fill="#4F7DE7">
+                            <tspan x="30" y="57">75%</tspan>
+                        </text>
+                        <path d="M0,50 C0,77.6142375 22.3857625,100 50,100 C77.6142375,100 100,77.6142375 100,50 C100,22.3857625 77.6142375,0 50,0" id="路径" stroke="url(#linearGradient-1)" stroke-width="6" stroke-linecap="round"></path>
+                    </g>
+                    <g id="编组-26" transform="translate(202.000000, 15.000000)">
+                        <circle id="椭圆形" stroke="#F0F0F0" stroke-width="6" cx="50" cy="50" r="50"></circle>
+                        <circle id="椭圆形" stroke-opacity="0.2" stroke="#FF4141" fill="#FFFFFF" cx="50" cy="50" r="19.5"></circle>
+                        <path d="M50,43 C50.5522847,43 51,43.4477153 51,44 L51,50 L57,50 C57.5522847,50 58,50.4477153 58,51 C58,51.5522847 57.5522847,52 57,52 L51,52 L51,58 C51,58.5522847 50.5522847,59 50,59 C49.4477153,59 49,58.5522847 49,58 L49,52 L43,52 C42.4477153,52 42,51.5522847 42,51 C42,50.4477153 42.4477153,50 43,50 L49,49.999 L49,44 C49,43.4477153 49.4477153,43 50,43 Z" id="矩形-8" fill="#FF4141" transform="translate(50.000000, 51.000000) rotate(-315.000000) translate(-50.000000, -51.000000) "></path>
+                        <path d="M0,50 C0,77.6142375 22.3857625,100 50,100 C77.6142375,100 100,77.6142375 100,50 C100,22.3857625 77.6142375,0 50,0" id="路径" stroke="url(#linearGradient-2)" stroke-width="6" stroke-linecap="round"></path>
+                    </g>
+                    <g id="编组-27" transform="translate(326.000000, 15.000000)">
+                        <circle id="椭圆形" stroke="url(#linearGradient-3)" stroke-width="6" cx="50" cy="50" r="50"></circle>
+                        <circle id="椭圆形" stroke-opacity="0.2" stroke="#44CE6E" fill="#FFFFFF" cx="50" cy="50" r="19.5"></circle>
+                        <path d="M43.1710353,43.4038605 C43.72332,43.4038605 44.1710353,43.8515757 44.1710353,44.4038605 L44.1710353,51.4038605 L57.1710353,51.4038605 C57.72332,51.4038605 58.1710353,51.8515757 58.1710353,52.4038605 C58.1710353,52.9561452 57.72332,53.4038605 57.1710353,53.4038605 L43.1710353,53.4038605 L43.1710353,53.4038605 C42.6187505,53.4038605 42.1710353,52.9561452 42.1710353,52.4038605 L42.1710353,44.4038605 C42.1710353,43.8515757 42.6187505,43.4038605 43.1710353,43.4038605 Z" id="矩形-9" fill="#44CE6E" transform="translate(50.171035, 48.403860) rotate(-45.000000) translate(-50.171035, -48.403860) "></path>
+                    </g>
+                    <g id="style1" transform="translate(12.000000, 14.000000)" fill="#525A6E" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                        <text>
+                            <tspan x="0.65234375" y="15">style1</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
